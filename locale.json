@@ -1,23 +1,19 @@
 {
     "en": {
         "langName": "English",
-        "title": "Advanced NLP with spaCy",
-        "slogan": "A free online course",
-        "description": "spaCy is a modern Python library for industrial-strength Natural Language Processing. In this free and interactive online course, you'll learn how to use spaCy to build advanced natural language understanding systems, using both rule-based and machine learning approaches.",
-        "bio": "I'm Ines, one of the core developers of spaCy and the co-founder of Explosion. I specialize in modern developer tools for AI, Machine Learning and NLP. I also really love building stuff for the web.",
-        "video": "THduWAnG97k",
+        "title": "Mass Communication and Public Health",
+        "slogan": "An interactive, modern, and global course",
+        "description": "Mass comm and public health....",
+        "bio": "<p>I'm  <a href='https://ralfschmaelzle.net/'>Ralf</a>, an assitant professor in the Department of Communication at Michigan State University and PI of the <a href='https://nomcomm.github.io/'>Neuroscience of Messages Lab</a> (NOMLab).<br>I hope you'll enjoy this course. I created it in order to reach people who would otherwise have a hard time to learn about Media Neuroscience, and to provide the next generation of Media Neuroscientists with a skill-based (and fun) training opportunity. I believe that the possibilities of online eduction are enormous in that regard.</p>",
+        "video": "IoXoLVjT178",
         "footerLinks": [
             {
-                "text": "spaCy Website",
-                "url": "https://spacy.io"
+                "text": "Website",
+                "url": "https://nomcomm.github.io"
             },
             {
                 "text": "Source",
-                "url": "https://github.com/ines/spacy-course"
-            },
-            {
-                "text": "Follow me on Twitter",
-                "url": "https://twitter.com/_inesmontani"
+                "url": "https://github.com/rschmaelzle/rs102"
             }
         ],
         "socialImage": "social.jpg",
@@ -50,22 +46,18 @@
     "de": {
         "langName": "Deutsch",
         "title": "Modernes NLP mit spaCy",
-        "slogan": "Ein Gratis-Onlinekurs",
-        "description": "spaCy ist eine moderne Python-Bibliothek für industriestarkes Natural Language Processing. In diesem kostenlosen und interaktiven Onlinekurs lernst du, mithilfe von spaCy fortgeschrittene Systeme für die Analyse natürlicher Sprache zu entwickeln und dabei sowohl regelbasierte Verfahren, als auch moderne Machine-Learning-Technologie einzusetzen.",
-        "bio": "Ich bin Ines, eine Hauptentwicklerin von spaCy und Gründerin von Explosion. Mein Spezialgebiet sind moderne Entwicklertools für KI, Machine Learning und NLP. Ich baue außerdem supergern Dinge fürs Web.",
+        "slogan": "Ein interaktiver, moderner und globaler Kurs",
+        "description": "Dieser Kurs ... moderne Massenkommunikation.",
+        "bio": "Ich bin Ralf. Ich arbeite als Assistant Professor am Department of Communication an der Michigan State University. Mein Spezialgebiet is Communication Neuroscience und ich erfosche wie wir auf gesundheitliche Botschaften reagieren.",
         "video": "K1elwpgDdls",
         "footerLinks": [
-            {
-                "text": "spaCy Website",
-                "url": "https://spacy.io"
+           {
+                "text": "Website",
+                "url": "https://nomcomm.github.io"
             },
             {
                 "text": "Quellcode",
-                "url": "https://github.com/ines/spacy-course"
-            },
-            {
-                "text": "Folge mir auf Twitter",
-                "url": "https://twitter.com/_inesmontani"
+                "url": "https://github.com/rschmaelzle/rs102"
             }
         ],
         "socialImage": "social_de.jpg",
