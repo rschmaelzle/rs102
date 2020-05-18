@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-APP_NAME = "spacy_course"
+APP_NAME = "rs102"
 
 # import settings config
 settingsfile=docker/config.env
