@@ -18,7 +18,7 @@ id: 1
 
 <exercise id="2" title="Health communication in the past" type="slides,video">
 
-<slides source="chapter1_02_statistical-models" start="0:165" end="3:01">
+<slides source="chapter1_02_statistical-models" start="0:05" end="1:01">
 </slides>
 
 </exercise>
