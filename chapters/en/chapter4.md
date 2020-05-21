@@ -1,11 +1,7 @@
 ---
-title: 'Chapter 4: Training a neural network model'
+title: 'Chapter 4: Getting the word out'
 description:
-  "In this chapter, you'll learn how to update spaCy's statistical models to
-  customize them for your use case – for example, to predict a new entity type
-  in online comments. You'll write your own training loop from scratch, and
-  understand the basics of how training works, along with tips and tricks that
-  can make your custom NLP projects more successful."
+  "In this chapter, you'll learn how to disseminate messages effectively and how to implement your campaign in a professional manner. You'll learn how analyze social networks and identify important people or organizations, along with tips and tricks that can make your campaign more cost-effective and impactful."
 prev: /chapter3
 next: null
 type: chapter
