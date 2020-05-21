@@ -8,14 +8,14 @@ type: chapter
 id: 2
 ---
 
-<exercise id="1" title="Formative Research" type="slides,video">
+<exercise id="1" title="Formative research" type="slides,video">
 
 <slides source="chapter2_01_data-structures-1" start="11:06" end="13:37">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Situation Analysis">
+<exercise id="2" title="Situation analysis">
 
 ### Part 1
 
@@ -45,7 +45,7 @@ id: 2
 
 </exercise>
 
-<exercise id="3" title="Audience Analysis">
+<exercise id="3" title="Audience analysis">
 
 Why does this code throw an error?
 
@@ -93,7 +93,7 @@ the vocab.
 
 </exercise>
 
-<exercise id="4" title="Hands-on: Audience Analysis" type="slides,video">
+<exercise id="4" title="Hands-on: Audience analysis" type="slides,video">
 
 <slides source="chapter2_02_data-structures-2" start="13:475" end="15:47">
 </slides>
@@ -146,7 +146,7 @@ string, you can try it and print the tokens for `nlp("Oh, really?!")`.
 
 </exercise>
 
-<exercise id="6" title="Previous Campaign Analysis">
+<exercise id="6" title="Previous campaign analysis">
 
 In this exercise, you'll create the `Doc` and `Span` objects manually, and
 update the named entities – just like spaCy does behind the scenes. A shared
@@ -246,7 +246,7 @@ The `.pos_` attribute returns the coarse-grained part-of-speech tag and
 
 </exercise>
 
-<exercise id="8" title="Writing the Formative Research Section" type="slides,video">
+<exercise id="8" title="Writing the section on formative research" type="slides,video">
 
 <slides source="chapter2_03_word-vectors-similarity" start="15:58" end="19:47">
 </slides>
