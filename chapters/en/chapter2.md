@@ -1,10 +1,7 @@
 ---
-title: 'Chapter 2: Large-scale data analysis with spaCy'
+title: 'Chapter 2: Formative Research'
 description:
-  "In this chapter, you'll use your new skills to extract specific information
-  from large volumes of text. You''ll learn how to make the most of spaCy's data
-  structures, and how to effectively combine statistical and rule-based
-  approaches for text analysis."
+  "In this chapter, you'll use your new skills to perform formative research that informs your campaign. You''ll learn how to conduct a situation analysis, analyze your audience, and understand what prior (communication) efforts exist and what they achieved."
 prev: /chapter1
 next: /chapter3
 type: chapter
