@@ -8,14 +8,14 @@ type: chapter
 id: 2
 ---
 
-<exercise id="1" title="Data Structures (1)" type="slides,video">
+<exercise id="1" title="Formative Research" type="slides,video">
 
 <slides source="chapter2_01_data-structures-1" start="11:06" end="13:37">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Strings to hashes">
+<exercise id="2" title="Situation Analysis">
 
 ### Part 1
 
@@ -45,7 +45,7 @@ id: 2
 
 </exercise>
 
-<exercise id="3" title="Vocab, hashes and lexemes">
+<exercise id="3" title="Audience Analysis">
 
 Why does this code throw an error?
 
@@ -93,7 +93,7 @@ the vocab.
 
 </exercise>
 
-<exercise id="4" title="Data Structures (2)" type="slides,video">
+<exercise id="4" title="Hands-on: Audience Analysis" type="slides,video">
 
 <slides source="chapter2_02_data-structures-2" start="13:475" end="15:47">
 </slides>
@@ -146,7 +146,7 @@ string, you can try it and print the tokens for `nlp("Oh, really?!")`.
 
 </exercise>
 
-<exercise id="6" title="Docs, spans and entities from scratch">
+<exercise id="6" title="Previous Campaign Analysis">
 
 In this exercise, you'll create the `Doc` and `Span` objects manually, and
 update the named entities – just like spaCy does behind the scenes. A shared
@@ -172,7 +172,7 @@ update the named entities – just like spaCy does behind the scenes. A shared
 
 </exercise>
 
-<exercise id="7" title="Data structures best practices">
+<exercise id="7" title="Hands on: What messages are out there?">
 
 The code in this example is trying to analyze a text and collect all proper
 nouns that are followed by a verb.
@@ -246,179 +246,9 @@ The `.pos_` attribute returns the coarse-grained part-of-speech tag and
 
 </exercise>
 
-<exercise id="8" title="Word vectors and semantic similarity" type="slides,video">
+<exercise id="8" title="Formative Research: Summary" type="slides,video">
 
 <slides source="chapter2_03_word-vectors-similarity" start="15:58" end="19:47">
 </slides>
-
-</exercise>
-
-<exercise id="9" title="Inspecting word vectors">
-
-In this exercise, you'll use a larger
-[English model](https://spacy.io/models/en), which includes around 20.000 word
-vectors. The model is already pre-installed.
-
-- Load the medium `"en_core_web_md"` model with word vectors.
-- Print the vector for `"bananas"` using the `token.vector` attribute.
-
-<codeblock id="02_09">
-
-- To load a statistical model, call `spacy.load` with its string name.
-- To access a token in a doc, you can index into it. For example, `doc[4]`.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="10" title="Comparing similarities">
-
-In this exercise, you'll be using spaCy's `similarity` methods to compare `Doc`,
-`Token` and `Span` objects and get similarity scores.
-
-### Part 1
-
-- Use the `doc.similarity` method to compare `doc1` to `doc2` and print the
-  result.
-
-<codeblock id="02_10_01">
-
-The `doc.similarity` method takes one argument: the other object to compare the
-current object to.
-
-</codeblock>
-
-### Part 2
-
-- Use the `token.similarity` method to compare `token1` to `token2` and print
-  the result.
-
-<codeblock id="02_10_02">
-
-- The `token.similarity` method takes one argument: the other object to compare
-  the current object to.
-
-</codeblock>
-
-### Part 3
-
-- Create spans for "great restaurant"/"really nice bar".
-- Use `span.similarity` to compare them and print the result.
-
-<codeblock id="02_10_03"></codeblock>
-
-</exercise>
-
-<exercise id="11" title="Combining models and rules" type="slides,video">
-
-<slides source="chapter2_04_models-rules" start="19:58" end="23:25">
-</slides>
-
-</exercise>
-
-<exercise id="12" title="Debugging patterns (1)">
-
-Why does this pattern not match the tokens "Silicon Valley" in the `doc`?
-
-```python
-pattern = [{"LOWER": "silicon"}, {"TEXT": " "}, {"LOWER": "valley"}]
-```
-
-```python
-doc = nlp("Can Silicon Valley workers rein in big tech from within?")
-```
-
-<choice>
-
-<opt text='The tokens "Silicon" and "Valley" are not lowercase, so the <code>"LOWER"</code> attribute won’t match.'>
-
-The `"LOWER"` attribute in the pattern describes tokens whose _lowercase form_
-matches a given value. So `{"LOWER": "valley"}` will match tokens like "Valley",
-"VALLEY", "valley" etc.
-
-</opt>
-
-<opt correct="true" text='The tokenizer doesn’t create tokens for single spaces, so there’s no token with the value <code>" "</code> in between.'>
-
-The tokenizer already takes care of splitting off whitespace and each dictionary
-in the pattern describes one token.
-
-</opt>
-
-<opt text='The tokens are missing an operator <code>"OP"</code> to indicate that they should be matched exactly once.'>
-
-By default, all tokens described by a pattern will be matched exactly once.
-Operators are only needed to change this behavior – for example, to match zero
-or more times.
-
-</opt>
-
-</choice>
-
-</exercise>
-
-<exercise id="13" title="Debugging patterns (2)">
-
-Both patterns in this exercise contain mistakes and won't match as expected. Can
-you fix them? If you get stuck, try printing the tokens in the `doc` to see how
-the text will be split and adjust the pattern so that each dictionary represents
-one token.
-
-- Edit `pattern1` so that it correctly matches all case-insensitive mentions of
-  `"Amazon"` plus a title-cased proper noun.
-- Edit `pattern2` so that it correctly matches all case-insensitive mentions of
-  `"ad-free"`, plus the following noun.
-
-<codeblock id="02_13">
-
-- Try processing the strings that should be matched with the `nlp` object – for
-  example `[token.text for token in nlp("ad-free viewing")]`.
-- Inspect the tokens and make sure each dictionary in the pattern correctly
-  describes one token.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="14" title="Efficient phrase matching">
-
-Sometimes it's more efficient to match exact strings instead of writing patterns
-describing the individual tokens. This is especially true for finite categories
-of things – like all countries of the world. We already have a list of
-countries, so let's use this as the basis of our information extraction script.
-A list of string names is available as the variable `COUNTRIES`.
-
-- Import the `PhraseMatcher` and initialize it with the shared `vocab` as the
-  variable `matcher`.
-- Add the phrase patterns and call the matcher on the `doc`.
-
-<codeblock id="02_14">
-
-The shared `vocab` is available as `nlp.vocab`.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="15" title="Extracting countries and relationships">
-
-In the previous exercise, you wrote a script using spaCy's `PhraseMatcher` to
-find country names in text. Let's use that country matcher on a longer text,
-analyze the syntax and update the document's entities with the matched
-countries.
-
-- Iterate over the matches and create a `Span` with the label `"GPE"`
-  (geopolitical entity).
-- Overwrite the entities in `doc.ents` and add the matched span.
-- Get the matched span's root head token.
-- Print the text of the head token and the span.
-
-<codeblock id="02_15">
-
-- Remember that the text is available as the variable `text`.
-- The span's root token is available as `span.root`. A token's head is available
-  via the `token.head` attribute.
-
-</codeblock>
 
 </exercise>
