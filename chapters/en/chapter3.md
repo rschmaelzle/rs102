@@ -1,11 +1,7 @@
 ---
-title: 'Chapter 3: Processing Pipelines'
+title: 'Chapter 3: Theory Pharmacy'
 description:
-  "This chapter will show you everything you need to know about spaCy's
-  processing pipeline. You'll learn what goes on under the hood when you process
-  a text, how to write your own components and add them to the pipeline, and how
-  to use custom attributes to add your own metadata to the documents, spans and
-  tokens."
+  "This chapter will introduce you to the most important theories that can guide your strategy. You'll learn about theories that explain health behavior change, information processing, and message effects. Just like a doctor can draw from different treatment options (e.g. pills vs. surgery), you will obtain a set of theoretically sound and thus immensely practical tools."
 prev: /chapter2
 next: /chapter4
 type: chapter
