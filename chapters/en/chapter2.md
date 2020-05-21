@@ -246,7 +246,7 @@ The `.pos_` attribute returns the coarse-grained part-of-speech tag and
 
 </exercise>
 
-<exercise id="8" title="Formative Research: Summary" type="slides,video">
+<exercise id="8" title="Writing the Formative Research Section" type="slides,video">
 
 <slides source="chapter2_03_word-vectors-similarity" start="15:58" end="19:47">
 </slides>
