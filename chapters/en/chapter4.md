@@ -8,14 +8,14 @@ type: chapter
 id: 4
 ---
 
-<exercise id="1" title="Training and updating models" type="slides,video">
+<exercise id="1" title="Exposure as the cornerstone of communication effects" type="slides,video">
 
 <slides source="chapter4_01_training-updating-models" start="35:02" end="38:495">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Purpose of training">
+<exercise id="2" title="Social Networks">
 
 While spaCy comes with a range of pre-trained models to predict linguistic
 annotations, you almost _always_ want to fine-tune them with more examples. You
@@ -50,7 +50,7 @@ only learn to reproduce examples, not guess new labels from raw text.
 
 </exercise>
 
-<exercise id="3" title="Creating training data (1)">
+<exercise id="3" title="Hands-on: Analyzing Networks">
 
 spaCy's rule-based `Matcher` is a great way to quickly create training data for
 named entity models. A list of sentences is available as the variable `TEXTS`.
@@ -74,7 +74,7 @@ models, so we can create training data to teach a model to recognize them as
 
 </exercise>
 
-<exercise id="4" title="Creating training data (2)">
+<exercise id="4" title="Diffusion of Innovations">
 
 Let's use the match patterns we've created in the previous exercise to bootstrap
 a set of training examples. A list of sentences is available as the variable
@@ -98,14 +98,14 @@ a set of training examples. A list of sentences is available as the variable
 
 </exercise>
 
-<exercise id="5" title="The training loop" type="slides,video">
+<exercise id="5" title="Hands-on: Analyzing Diffusion" type="slides,video">
 
 <slides source="chapter4_02_training-loop" start="39:00" end="42:25">
 </slides>
 
 </exercise>
 
-<exercise id="6" title="Setting up the pipeline">
+<exercise id="6" title="Assessing Channels">
 
 In this exercise, you'll prepare a spaCy pipeline to train the entity recognizer
 to recognize `"GADGET"` entities in a text – for example, "iPhone X".
@@ -130,7 +130,7 @@ to recognize `"GADGET"` entities in a text – for example, "iPhone X".
 
 </exercise>
 
-<exercise id="7" title="Building a training loop">
+<exercise id="7" title="Implementing the Campaign">
 
 Let's write a simple training loop from scratch!
 
@@ -161,7 +161,7 @@ as `TRAINING_DATA`. To see the examples, you can print them in your script.
 
 </exercise>
 
-<exercise id="8" title="Exploring the model">
+<exercise id="8" title="Implementation best practices">
 
 Let's see how the model performs on unseen data! To speed things up a little, we
 already ran a trained model for the label `"GADGET"` over some text. Here are
@@ -216,14 +216,14 @@ number of total correct entities the model _should_ have predicted.
 
 </exercise>
 
-<exercise id="9" title="Training best practices" type="slides,video">
+<exercise id="9" title="Let's not forget this: Finances" type="slides,video">
 
 <slides source="chapter4_03_training-best-practices" start="42:36" end="44:55">
 </slides>
 
 </exercise>
 
-<exercise id="10" title="Good data vs. bad data">
+<exercise id="10" title="Keeping count: Process Evaluation">
 
 Here's an excerpt from a training set that labels the entity type
 `TOURIST_DESTINATION` in traveler reviews.
@@ -296,82 +296,5 @@ of the big advantages of statistical named entity recognition.
   and where it ends. Then add `(start, end, label)` tuples to the entities.
 
 </codeblock>
-
-</exercise>
-
-<exercise id="11" title="Training multiple labels">
-
-Here's a small sample of a dataset created to train a new entity type
-`"WEBSITE"`. The original dataset contains a few thousand sentences. In this
-exercise, you'll be doing the labeling by hand. In real life, you probably want
-to automate this and use an annotation tool – for example,
-[Brat](http://brat.nlplab.org/), a popular open-source solution, or
-[Prodigy](https://prodi.gy), our own annotation tool that integrates with spaCy.
-
-### Part 1
-
-- Complete the entity offsets for the `"WEBSITE"` entities in the data. Feel
-  free to use `len()` if you don't want to count the characters.
-
-<codeblock id="04_11_01">
-
-- The start and end offset of an entity span are the character offsets into the
-  text. For example, if an entity starts at position 5, the start offset is `5`.
-  Remember that the end offsets are _exclusive_ – so `10` means _up to_
-  character 10.
-
-</codeblock>
-
-### Part 2
-
-A model was trained with the data you just labelled, plus a few thousand similar
-examples. After training, it's doing great on `"WEBSITE"`, but doesn't recognize
-`"PERSON"` anymore. Why could this be happening?
-
-<choice>
-
-<opt text='It’s very difficult for the model to learn about different categories like <code>"PERSON"</code> and <code>"WEBSITE"</code>.'>
-
-It's definitely possible for a model to learn about very different categories.
-For example, spaCy's pre-trained English models can recognize persons, but also
-organizations or percentages.
-
-</opt>
-
-<opt text='The training data included no examples of <code>"PERSON"</code>, so the model learned that this label is incorrect.' correct="true">
-
-If `"PERSON"` entities occur in the training data but aren't labelled, the model
-will learn that they shouldn't be predicted. Similarly, if an existing entity
-type isn't present in the training data, the model may \"forget\" and stop
-predicting it.
-
-</opt>
-
-<opt text="The hyperparameters need to be retuned so that both entity types can be recognized.">
-
-While the hyperparameters can influence a model's accuracy, they're likely not
-the problem here.
-
-</opt>
-
-</choice>
-
-### Part 3
-
-- Update the training data to include annotations for the `"PERSON"` entities
-  "PewDiePie" and "Alexis Ohanian".
-
-<codeblock id="04_11_02">
-
-- To add more entities, append another `(start, end, label)` tuple to the list.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="12" title="Wrapping up" type="slides,video">
-
-<slides source="chapter4_04_wrapping-up" start="45:01" end="47:195">
-</slides>
 
 </exercise>
