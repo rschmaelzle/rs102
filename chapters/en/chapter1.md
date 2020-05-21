@@ -16,31 +16,10 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Health communication in the past">
+<exercise id="2" title="Health communication in the past" type="slides,video">
 
-Let's get started and try out spaCy! In this exercise, you'll be able to try out
-some of the 55+ [available languages](https://spacy.io/usage/models#languages).
-
-### Part 1: English
-
-- Import the `English` class from `spacy.lang.en` and create the `nlp` object.
-- Create a `doc` and print its text.
-
-<codeblock id="01_02_01"></codeblock>
-
-### Part 2: German
-
-- Import the `German` class from `spacy.lang.de` and create the `nlp` object.
-- Create a `doc` and print its text.
-
-<codeblock id="01_02_02"></codeblock>
-
-### Part 3: Spanish
-
-- Import the `Spanish` class from `spacy.lang.es` and create the `nlp` object.
-- Create a `doc` and print its text.
-
-<codeblock id="01_02_03"></codeblock>
+<slides source="chapter1_02_statistical-models" start="0:165" end="3:01">
+</slides>
 
 </exercise>
 
