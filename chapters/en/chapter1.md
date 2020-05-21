@@ -147,7 +147,18 @@ hashes and look up the corresponding string if needed.
 
 </exercise>
 
-<exercise id="7" title="Writing a problem statement">
+<exercise id="7" title="The campaign project: Introduction">
+
+The models we're using in this course are already pre-installed. For more
+details on spaCy's statistical models and how to install them on your machine,
+see [the documentation](https://spacy.io/usage/models).
+
+- Use `spacy.load` to load the small English model `"en_core_web_sm"`.
+- Process the text and print the document text.
+
+</exercise>
+
+<exercise id="7" title="Writing a problem and goals statement">
 
 The models we're using in this course are already pre-installed. For more
 details on spaCy's statistical models and how to install them on your machine,
