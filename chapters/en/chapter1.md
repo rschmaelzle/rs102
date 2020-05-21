@@ -16,7 +16,7 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Health Communication in the Past">
+<exercise id="2" title="Health communication in the past">
 
 Let's get started and try out spaCy! In this exercise, you'll be able to try out
 some of the 55+ [available languages](https://spacy.io/usage/models#languages).
@@ -44,7 +44,7 @@ some of the 55+ [available languages](https://spacy.io/usage/models#languages).
 
 </exercise>
 
-<exercise id="3" title="Health Communication today">
+<exercise id="3" title="Health communication today">
 
 When you call `nlp` on a string, spaCy first tokenizes the text and creates a
 document object. In this exercise, you'll learn more about the `Doc`, as well as
@@ -82,7 +82,7 @@ token 4.
 
 </exercise>
 
-<exercise id="4" title="Perspectives from Communication, Psychology, Public Health, &  Marketing">
+<exercise id="4" title="Beyond Communication Science: Multidisciplinary perspectives">
 
 In this example, you'll use spaCy's `Doc` and `Token` objects, and lexical
 attributes to find percentages in a text. You'll be looking for two subsequent
@@ -103,14 +103,14 @@ To get the token at a certain index, you can index into the `doc`. For example,
 
 </exercise>
 
-<exercise id="5" title="Our approach: Hands-on, Based on Theory & Research, Strategic" type="slides,video">
+<exercise id="5" title="Our approach: high-quality and hands-on" type="slides,video">
 
 <slides source="chapter1_02_statistical-models" start="3:12" end="7:01">
 </slides>
 
 </exercise>
 
-<exercise id="6" title="Why goals are smart" type="choice">
+<exercise id="6" title="Why goals are super-smart" type="choice">
 
 What's **not** included in a model package that you can load into spaCy?
 
