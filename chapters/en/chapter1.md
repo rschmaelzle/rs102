@@ -1,9 +1,8 @@
 ---
-title: 'Chapter 1: Finding words, phrases, names and concepts'
+title: 'Chapter 1: Campaigns: Goals, Past and Present '
 description:
-  "This chapter will introduce you to the basics of text processing with spaCy.
-  You'll learn about the data structures, how to work with statistical models,
-  and how to use them to predict linguistic features in your text."
+  "This chapter will introduce you to the role of Mass Communication within Public Health.
+  You'll learn about the history of public communication campaigns, how to set goals that can tell you whether the camaign was successful, and how the new public communication environment (including social media) changes the face, but not the substance of the campaign process."
 prev: null
 next: /chapter2
 type: chapter
