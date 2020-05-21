@@ -82,7 +82,7 @@ token 4.
 
 </exercise>
 
-<exercise id="4" title="The big players: Communication Science, Psychology, Public Health, & Social Marketing">
+<exercise id="4" title="Perspectives from Communication, Psychology, Public Health, &  Marketing">
 
 In this example, you'll use spaCy's `Doc` and `Token` objects, and lexical
 attributes to find percentages in a text. You'll be looking for two subsequent
