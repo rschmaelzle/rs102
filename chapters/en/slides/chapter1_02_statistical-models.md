@@ -1,5 +1,10 @@
-﻿# Welcome to Campaigns 101!
+---
+type: slides
+---
 
+# Welcome to Campaigns 101!
+
+---
 
 # About this course
 
@@ -13,12 +18,15 @@ code test
 this is the output
 '''
 
+---
+
 ## Then, there are lists
 
 -  **New file** 
 - and bolding
 - and italics (but I don't know how to do)
 
+---
 
 ## Manage file publication
 
