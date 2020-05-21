@@ -9,14 +9,14 @@ type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Introduction to spaCy" type="slides,video">
+<exercise id="1" title="Introduction" type="slides,video">
 
 <slides source="chapter1_01_introduction-to-spacy" start="0:165" end="3:01">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Health Communication in the Past">
 
 Let's get started and try out spaCy! In this exercise, you'll be able to try out
 some of the 55+ [available languages](https://spacy.io/usage/models#languages).
@@ -44,7 +44,7 @@ some of the 55+ [available languages](https://spacy.io/usage/models#languages).
 
 </exercise>
 
-<exercise id="3" title="Documents, spans and tokens">
+<exercise id="3" title="Health Communication today">
 
 When you call `nlp` on a string, spaCy first tokenizes the text and creates a
 document object. In this exercise, you'll learn more about the `Doc`, as well as
@@ -82,7 +82,7 @@ token 4.
 
 </exercise>
 
-<exercise id="4" title="Lexical attributes">
+<exercise id="4" title="The big players: Communication Science, Psychology, Public Health, & Social Marketing">
 
 In this example, you'll use spaCy's `Doc` and `Token` objects, and lexical
 attributes to find percentages in a text. You'll be looking for two subsequent
@@ -103,14 +103,14 @@ To get the token at a certain index, you can index into the `doc`. For example,
 
 </exercise>
 
-<exercise id="5" title="Statistical models" type="slides,video">
+<exercise id="5" title="Our approach: Hands-on, Based on Theory & Research, Strategic" type="slides,video">
 
 <slides source="chapter1_02_statistical-models" start="3:12" end="7:01">
 </slides>
 
 </exercise>
 
-<exercise id="6" title="Model packages" type="choice">
+<exercise id="6" title="Why goals are smart" type="choice">
 
 What's **not** included in a model package that you can load into spaCy?
 
@@ -147,7 +147,7 @@ hashes and look up the corresponding string if needed.
 
 </exercise>
 
-<exercise id="7" title="Loading models">
+<exercise id="7" title="Writing a problem statement">
 
 The models we're using in this course are already pre-installed. For more
 details on spaCy's statistical models and how to install them on your machine,
@@ -161,150 +161,6 @@ see [the documentation](https://spacy.io/usage/models).
 To load a model, call `spacy.load` on its string name. Model names differ
 depending on the language and the data they were trained on – so make sure to
 use the correct name.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="8" title="Predicting linguistic annotations">
-
-You'll now get to try one of spaCy's pre-trained model packages and see its
-predictions in action. Feel free to try it out on your own text! To find out
-what a tag or label means, you can call `spacy.explain` in the loop. For
-example: `spacy.explain("PROPN")` or `spacy.explain("GPE")`.
-
-### Part 1
-
-- Process the text with the `nlp` object and create a `doc`.
-- For each token, print the token text, the token's `.pos_` (part-of-speech tag)
-  and the token's `.dep_` (dependency label).
-
-<codeblock id="01_08_01">
-
-To create a `doc`, call the `nlp` object on a string of text. Remember that you
-need to use the token attribute names with an underscore to get the string
-values.
-
-</codeblock>
-
-### Part 2
-
-- Process the text and create a `doc` object.
-- Iterate over the `doc.ents` and print the entity text and `label_` attribute.
-
-<codeblock id="01_08_02">
-
-To create a `doc`, call the `nlp` object on a string of text. Remember that you
-need to use the token attribute names with an underscore to get the string
-values.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="9" title="Predicting named entities in context">
-
-Models are statistical and not _always_ right. Whether their predictions are
-correct depends on the training data and the text you're processing. Let's take
-a look at an example.
-
-- Process the text with the `nlp` object.
-- Iterate over the entities and print the entity text and label.
-- Looks like the model didn't predict "iPhone X". Create a span for those tokens
-  manually.
-
-<codeblock id="01_09">
-
-- To create a `doc`, call the `nlp` object on the text. Named entities are
-  available as the `doc.ents` property.
-- The easiest way to create a `Span` object is to use the slice notation – for
-  example `doc[5:10]` for the token at position 5 _up to_ position 10. Remember
-  that the last token index is exclusive.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="10" title="Rule-based matching" type="slides,video">
-
-<slides source="chapter1_03_rule-based-matching" start="7:118" end="10:55">
-</slides>
-
-</exercise>
-
-<exercise id="11" title="Using the Matcher">
-
-Let's try spaCy's rule-based `Matcher`. You'll be using the example from the
-previous exercise and write a pattern that can match the phrase "iPhone X" in
-the text.
-
-- Import the `Matcher` from `spacy.matcher`.
-- Initialize it with the `nlp` object's shared `vocab`.
-- Create a pattern that matches the `"TEXT"` values of two tokens: `"iPhone"`
-  and `"X"`.
-- Use the `matcher.add` method to add the pattern to the matcher.
-- Call the matcher on the `doc` and store the result in the variable `matches`.
-- Iterate over the matches and get the matched span from the `start` to the
-  `end` index.
-
-<codeblock id="01_11">
-
-- The shared vocabulary is available as the `nlp.vocab` attribute.
-- A pattern is a list of dictionaries keyed by the attribute names. For example,
-  `[{"TEXT": "Hello"}]` will match one token whose exact text is "Hello".
-- The `start` and `end` values of each match describe the start and end index of
-  the matched span. To get the span, you can create a slice of the `doc` using
-  the given start and end.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="12" title="Writing match patterns">
-
-In this exercise, you'll practice writing more complex match patterns using
-different token attributes and operators.
-
-### Part 1
-
-- Write **one** pattern that only matches mentions of the _full_ iOS versions:
-  "iOS 7", "iOS 11" and "iOS 10".
-
-<codeblock id="01_12_01">
-
-- To match a token with an exact text, you can use the `TEXT` attribute. For
-  example, `{"TEXT": "Apple"}` will match tokens with the exact text "Apple".
-- To match a number token, you can use the `"IS_DIGIT"` attribute, which will
-  only return `True` for tokens consisting of only digits.
-
-</codeblock>
-
-### Part 2
-
-- Write **one** pattern that only matches forms of "download" (tokens with the
-  lemma "download"), followed by a token with the part-of-speech tag `"PROPN"`
-  (proper noun).
-
-<codeblock id="01_12_02">
-
-- To specify a lemma, you can use the `"LEMMA"` attribute in the token pattern.
-  For example, `{"LEMMA": "be"}` will match tokens like "is", "was" or "being".
-- To find proper nouns, you want to match all tokens whose `"POS"` value equals
-  `"PROPN"`.
-
-</codeblock>
-
-### Part 3
-
-- Write **one** pattern that matches adjectives (`"ADJ"`) followed by one or two
-  `"NOUN"`s (one noun and one optional noun).
-
-<codeblock id="01_12_03">
-
-- To find adjectives, look for tokens whose `"POS"` value equals `"ADJ"`. For
-  nouns, look for `"NOUN"`.
-- Operators can be added via the `"OP"` key. For example, `"OP": "?"` to match
-  zero or one time.
 
 </codeblock>
 
