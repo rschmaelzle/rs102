@@ -1,7 +1,7 @@
 ---
 title: 'Chapter 5: Evaluation'
 description:
-  "In this chapter, you'll learn how to disseminate messages effectively and how to implement your campaign in a professional manner. You'll learn how analyze social networks and identify important people or organizations, along with tips and tricks that can make your campaign more cost-effective and impactful."
+  "This chapter will show you how to determine whether your campaign actually 'moved the needle' - whether you achieved the goal you intendet to. You'll learn how to gauge the effects of your messages on various outcomes - be it awareness, knowledge, or attitude or behavior change. You'll learn data science skills that will make you a sought-after professional health communication."
 prev: /chapter5
 next: null
 type: chapter
