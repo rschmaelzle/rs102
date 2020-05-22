@@ -11,7 +11,7 @@ id: 1
 
 <exercise id="1" title="Introduction" type="video">
 
-<slides start="0:165" end="3:01">
+<slides id=_Fmkqwrt_Gk start="0:01" end="1:00">
 </slides>
 
 </exercise>
