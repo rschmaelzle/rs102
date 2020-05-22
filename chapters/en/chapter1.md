@@ -11,8 +11,7 @@ id: 1
 
 <exercise id="1" title="Introduction" type="video">
 
-<video id=_Fmkqwrt_Gk start="0:01" end="1:00">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bzS2nvagKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </exercise>
 
