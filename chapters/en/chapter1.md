@@ -9,9 +9,9 @@ type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Introduction" type="slides,video">
+<exercise id="1" title="Introduction" type="video">
 
-<slides source="chapter1_01_introduction-to-spacy" start="0:165" end="3:01">
+<slides start="0:165" end="3:01">
 </slides>
 
 </exercise>
