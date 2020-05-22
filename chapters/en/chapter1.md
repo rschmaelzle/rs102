@@ -11,52 +11,22 @@ id: 1
 
 <exercise id="1" title="Introduction" type="video">
 
+This is a video-type slide with the iframe embedding
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9bzS2nvagKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </exercise>
 
-<exercise id="2" title="Health communication in the past" type="slides,video">
+<exercise id="2" title="Health communication in the past" type="slides">
 
-<slides source="chapter1_02_statistical-models" start="0:05" end="1:01">
+<slides source="chapter1_02_statistical-models" >
 </slides>
 
 </exercise>
 
-<exercise id="3" title="Health communication today">
+<exercise id="3" title="Health communication today" type="video">
 
-When you call `nlp` on a string, spaCy first tokenizes the text and creates a
-document object. In this exercise, you'll learn more about the `Doc`, as well as
-its views `Token` and `Span`.
-
-### Step 1
-
-- Import the `English` language class and create the `nlp` object.
-- Process the text and instantiate a `Doc` object in the variable `doc`.
-- Select the first token of the `Doc` and print its `text`.
-
-<codeblock id="01_03_01">
-
-You can index into a `Doc` the same way you index into a list in Python. For
-example, `doc[4]` will give you the token at index 4, which is the fifth token
-in the text. Remember that in Python the first index is 0, not 1.
-
-</codeblock>
-
-### Step 2
-
-- Import the `English` language class and create the `nlp` object.
-- Process the text and instantiate a `Doc` object in the variable `doc`.
-- Create a slice of the `Doc` for the tokens "tree kangaroos" and "tree
-  kangaroos and narwhals".
-
-<codeblock id="01_03_02">
-
-Creating a slice of a `Doc` works just like creating a slice of a list in Python
-using the `:` notation. Remember that the last token index is _exclusive_ – for
-example, `0:4` describes the tokens 0 _up to_ token 4, but not including
-token 4.
-
-</codeblock>
+This is a video-type slide withno embedding, but trying to manipulate the video ID?!
+<Video id=_Fmkqwrt_Gk start=0:10 end=0:20 />
 
 </exercise>
 
