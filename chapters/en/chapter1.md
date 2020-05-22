@@ -12,7 +12,7 @@ id: 1
 <exercise id="1" title="Introduction" type="video">
 
 This is a video-type slide with the iframe embedding
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9bzS2nvagKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/9bzS2nvagKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </exercise>
 
