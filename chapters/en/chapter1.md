@@ -26,7 +26,8 @@ This is a video-type slide with the iframe embedding
 <exercise id="3" title="Health communication today" type="video">
 
 This is a video-type slide withno embedding, but trying to manipulate the video ID?!
-<Video id=_Fmkqwrt_Gk start=0:10 end=0:20 />
+<video id=_Fmkqwrt_Gk start=0:10 end=0:20>
+</video>
 
 </exercise>
 
