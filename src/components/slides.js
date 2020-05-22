@@ -128,7 +128,6 @@ const Video = ({ id, start = 0, end = 0 }) => {
                 <iframe
                     title={id}
                     width="800"
-                    height="450"
                     src={url}
                     frameBorder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
