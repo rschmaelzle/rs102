@@ -18,7 +18,7 @@ This is a video-type slide with the iframe embedding
 
 <exercise id="2" title="Health communication in the past" type="slides">
 
-<slides source="chapter1_02_statistical-models" >
+<slides source="chapter1_02_statistical-models" start="0:165" end="3:01">
 </slides>
 
 </exercise>
