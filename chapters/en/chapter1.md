@@ -89,19 +89,19 @@ If logged in to OneDrive, you will see  a form. If you are not logged in, please
 
 </exercise>
 
-<exercise id="5" title="Instructions for the course"  type="video">
+<exercise id="5" title="Intro to the campaign project"  type="video">
 
-Congratulations to completing the first chapter. The goal of this chapter was to bring everyone on more or less the same page, providing common ground and cover the minimal basics of the health campaign business. From here on, we will no longer focus on these big-picture topics, but learn very concrete methods that we can use to optimize messages. 
-<p></p>
-I have two more points: First, please fill out the form below to provide me with some sense of who you are, why you are taking this course, and how I can make this work well for you. 
+- summary and video
 
-Second, I want to give you an outline of how this course is intended to work: 
-- D2L and this site contain all the content - you can chose which works better for you. I personally find  this site better designed and easier to stay on top. 
-- In terms of meetings, we will in some weeks meet online and in others I will mainly post prerecorded content. I will let you know via email in which weeks we meet
-- In terms of the points that make up the grade, the detailed breakup is in the syllabus: First, you need to fill out the forms to receive quiz-points, which are the online-equivalent of attendance points. Second, you need to sign up for the campaign of the day and give a presentation. You can prerecord that presentation! Third, we will have an exam at the end of the course. The exam questions will be very similar to the quiz/form/reflection questions that your will complete throughout the course. Lastly, you will work on your own formative research project. Details on this will be provided in the next chapter.
 <p></p>
 Thank you! I am looking forward to getting to know you better and hearing your feedback !
 <p></p>
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
+</exercise>
+
+<exercise id="5" title="Writing a goal statement"  type="video">
+
+asdf
 
 </exercise>
