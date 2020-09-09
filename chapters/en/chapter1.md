@@ -1,126 +1,107 @@
 ---
-title: 'Chapter 1: Campaigns: Goals, Past and Present '
+title: 'Chapter 1: Introduction to Health Campaigns'
 description:
-  "This chapter will introduce you to the role of Mass Communication within Public Health.
-  You'll learn about the history of public communication campaigns, how to set goals that can tell you whether the camaign was successful, and how the new public communication environment (including social media) changes the face, but not the substance of the campaign process."
+  "This chapter will introduce you to the field of Health Communication.
+  You'll learn about the history of public communication campaigns, about major disciplines involved, and about successes and failures. We will discuss the role of campaign strategy, theory, and research for creating a campaign that has maximal chances for success. The chapter is meant as an introduction and to provide the context for the main part of the course - the specific formative research methods. At the end, we will discuss the need for Formative Research and review the major branches of Formative Research Methods."
 prev: null
 next: /chapter2
 type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Introduction" type="video">
-
-This is a video-type slide with the iframe embedding
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/9bzS2nvagKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</exercise>
-
-<exercise id="2" title="Health communication in the past" type="slides,video">
-
-<slides source="chapter1_02_statistical-models" start="0:165" end="1:01">
-</slides>
-
-</exercise>
-
-<exercise id="3" title="Health communication today" type="video">
-
-<video id=_Fmkqwrt_Gk start=0:10 end=0:20>
-</video>
-
-</exercise>
-
-<exercise id="4" title="Beyond Communication Science: Multidisciplinary perspectives">
-
-In this example, you'll use spaCy's `Doc` and `Token` objects, and lexical
-attributes to find percentages in a text. You'll be looking for two subsequent
-tokens: a number and a percent sign.
-
-- Use the `like_num` token attribute to check whether a token in the `doc`
-  resembles a number.
-- Get the token _following_ the current token in the document. The index of the
-  next token in the `doc` is `token.i + 1`.
-- Check whether the next token's `text` attribute is a percent sign "%".
-
-<codeblock id="01_04">
-
-To get the token at a certain index, you can index into the `doc`. For example,
-`doc[5]` is the token at index 5.
-
-</codeblock>
-
-</exercise>
-
-<exercise id="5" title="Our approach: high-quality and hands-on" type="slides,video">
-
-<slides source="chapter1_02_statistical-models" start="3:12" end="7:01">
-</slides>
-
-</exercise>
-
-<exercise id="6" title="Why goals are super-smart" type="choice">
-
-What's **not** included in a model package that you can load into spaCy?
+<exercise id="1" title="Overview and Definitions" type="video, slides">
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+[I'm a relative reference to a repository file](../slides/test.pdf)
+<p></p>
+- A message/sign that contains information how to leave a house during an emergency would be considered an ...  
 
 <choice>
-<opt text="A meta file including the language, pipeline and license.">
+<opt text="Awareness message.">
 
-All models include a `meta.json` that defines the language to initialize, the
-pipeline component names to load as well as general meta information like the
-model name, version, license, data sources, author and accuracy figures (if
-available).
+Awareness messages try, as the name suggests, to raise awareness about an issue that you may otherwise be unaware of. For instance, road signs serve that function, so do awareness weeks about some health issue.
 
 </opt>
-<opt text="Binary weights to make statistical predictions.">
+<opt text="Persuasive message.">
 
-To predict linguistic annotations like part-of-speech tags, dependency labels or
-named entities, models include binary weights.
-
-</opt>
-<opt correct="true" text="The labelled data that the model was trained on.">
-
-Statistical models allow you to generalize based on a set of training examples.
-Once they're trained, they use binary weights to make predictions. That's why
-it's not necessary to ship them with their training data.
+Persuasive messages try to change you, your thinking, feeling, or behavior in some sort. For instance, they may try to convince you that speeding,  texting and driving , or  not wearing masks and partying in dense crowds during Covid-19 are risky.
 
 </opt>
-<opt text="Strings of the model's vocabulary and their hashes.">
+<opt correct="true" text="Instruction message.">
 
-Model packages include a `strings.json` that stores the entries in the model's
-vocabulary and the mapping to hashes. This allows spaCy to only communicate in
-hashes and look up the corresponding string if needed.
+Instruction messages tell you how to do something. Examples are handwashing instructions, how to use a fire extinguisher, or how to practice safe sex. They should to be clear and easy to understand for everybody. 
 
 </opt>
+
 </choice>
 
-</exercise>
-
-<exercise id="7" title="The campaign project: Introduction">
-
-The models we're using in this course are already pre-installed. For more
-details on spaCy's statistical models and how to install them on your machine,
-see [the documentation](https://spacy.io/usage/models).
-
-- Use `spacy.load` to load the small English model `"en_core_web_sm"`.
-- Process the text and print the document text.
+<slides source="302_StrategyTheoryResearch">
+</slides>
 
 </exercise>
 
-<exercise id="7" title="Writing a problem and goals statement">
 
-The models we're using in this course are already pre-installed. For more
-details on spaCy's statistical models and how to install them on your machine,
-see [the documentation](https://spacy.io/usage/models).
+<exercise id="2" title="Health communication across the ages" type="video">
 
-- Use `spacy.load` to load the small English model `"en_core_web_sm"`.
-- Process the text and print the document text.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ng_BFaj8y7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
-<codeblock id="01_07">
+If logged in to OneDrive, you will see  a form. If you are not logged in, please follow the instructions and then fill out the form!
 
-To load a model, call `spacy.load` on its string name. Model names differ
-depending on the language and the data they were trained on – so make sure to
-use the correct name.
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
-</codeblock>
+</exercise>
+
+<exercise id="3" title="Major disciplines involved" type="video">
+
+- The Health Persuasion Approach
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+- Social Marketing Approach
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+- Psychology/Behavior Change Approaches
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+- Exercise (Must be logged in!)
+
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<p></p>
+
+- Bonus: Behavior Change Taxonomy App
+
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//SzDSVx6gY0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+</exercise>
+
+<exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
+  
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ijZipUhwLVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+- CommLibs Exercise (Must be logged in! This one is centered)
+
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMlBKRzZZVjBVTUdDQlpXMDQzMVoxOTM4Mi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
+</exercise>
+
+<exercise id="5" title="Instructions for the course"  type="video">
+
+Congratulations to completing the first chapter. The goal of this chapter was to bring everyone on more or less the same page, providing common ground and cover the minimal basics of the health campaign business. From here on, we will no longer focus on these big-picture topics, but learn very concrete methods that we can use to optimize messages. 
+<p></p>
+I have two more points: First, please fill out the form below to provide me with some sense of who you are, why you are taking this course, and how I can make this work well for you. 
+
+Second, I want to give you an outline of how this course is intended to work: 
+- D2L and this site contain all the content - you can chose which works better for you. I personally find  this site better designed and easier to stay on top. 
+- In terms of meetings, we will in some weeks meet online and in others I will mainly post prerecorded content. I will let you know via email in which weeks we meet
+- In terms of the points that make up the grade, the detailed breakup is in the syllabus: First, you need to fill out the forms to receive quiz-points, which are the online-equivalent of attendance points. Second, you need to sign up for the campaign of the day and give a presentation. You can prerecord that presentation! Third, we will have an exam at the end of the course. The exam questions will be very similar to the quiz/form/reflection questions that your will complete throughout the course. Lastly, you will work on your own formative research project. Details on this will be provided in the next chapter.
+<p></p>
+Thank you! I am looking forward to getting to know you better and hearing your feedback !
+<p></p>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 </exercise>
