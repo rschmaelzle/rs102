@@ -171,7 +171,13 @@ Congratulations to completing the first chapter. The goal of this chapter was to
 
 <exercise id="6" title="Intro to the campaign project"  type="video">
 
-
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Zbn8U4Oabe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
+
+<center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/IcM0MzByjlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+- Provisional Common Document
+<a href="https://michiganstate-my.sharepoint.com/:w:/g/personal/schmaelz_msu_edu/EU3eaArExf9Goc9hR96oKQcBrwEQLjm15D-0q-YN8M_wyg?e=z6c2hl"> Link to our common Document</a>
 
 </exercise>
