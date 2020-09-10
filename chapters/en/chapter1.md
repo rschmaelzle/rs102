@@ -10,11 +10,11 @@ id: 1
 ---
 
 <exercise id="1" title="Overview and definitions" type="video, slides">
-## Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
 
-## Quiz
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Gi6pa-WO_0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+### Quiz
 <p></p>
 A message/sign that contains information how to leave a house during an emergency would be considered an ...  
 <choice>
@@ -29,12 +29,11 @@ Instruction messages tell you how to do something. Examples are handwashing inst
 </opt>
 </choice>
 
-## Reflection (must be logged in)
-(If you are logged in to OneDrive, you will see a form. If you are not logged in, please follow the instructions and then fill out the form!
+### Reflection 
+(must be logged in)
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URjJTRUtaUUtQRVJSRjUxSE9GRlc5S0FTMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
-## Literature
-
+### Literature
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
 promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 - Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
@@ -43,15 +42,12 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 </exercise>
 
-
 <exercise id="2" title="Health communication across the ages" type="video">
 
+### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Ng_BFaj8y7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<p></p>
-- Quiz
-
-<p></p>
+### Quiz
 Select the most accurate historical timeline for public communication campaign messages (earliest to latest).   
 <choice>
 <opt correct="true" text="Word of mouth, print, radio, television, internet.">
@@ -64,12 +60,11 @@ Select the most accurate historical timeline for public communication campaign m
 </opt>
 </choice>
 
-- Reflection
+### Reflection
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTM5UkVYNDlZT0g4STFNWkRVOUdINkdJMC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
-- Literature
-<p></p>
-Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
+### Literature
+- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
 
 </exercise>
 
@@ -78,23 +73,19 @@ Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
 
 <exercise id="3" title="Major disciplines involved" type="video">
 
-- The Health Persuasion Approach
+### The Health Persuasion Approach
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/AjW1bCaL9tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
 
-- Social Marketing Approach
+### Social Marketing Approach
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/d4GsMhWHAuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
 
-- Psychology/Behavior Change Approaches
+### Psychology/Behavior Change Approaches
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed//Iv67sTjUoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<p></p>
-- Quiz
-<p></p>
+### Quiz
 You are going on a fishing trip. While buying equipmeent, you receive an information brochure with information about which lake Michigan fish are safe to eat. The source of the pamphlet is the Department of Health and Humans Services, which runs a campaign called "Eat safe fish". This is most likely an example comming from which approach? 
 <choice>
 <opt correct="true" text="Health Persuasion Approach.">
@@ -108,21 +99,19 @@ An intervention would be much more focused on individuals, for instance, a smoki
 </opt>
 </choice>
 
-- Reflection
+### Reflection
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNE5WOEtOUkc3MTBHSkZROFU4RDBORTVGNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
-- Bonus: Behavior Change Taxonomy App
+### Bonus: Behavior Change Taxonomy App
 
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed//SzDSVx6gY0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<p></p>
-- Literature
-<p></p>
-Donovan, R. & Henley, N. (2012). Principles and Practice of Social Marketing: An International Perspective. Cambridge University Press. 
-McGuire, W. J. (2001). Input and output variables currently promising for constructing persuasive communications. In R. E. Rice & C. K. Atkin (Eds.),
-Public communication campaigns (pp. 22- 48). Thousand Oaks, CA: Sage. 
-Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. Thousand Oaks, CA: Sage. 
-West, R., Godinho, C., Bohlen, L., Carey, R., Hastings, J., Lefevre, C., & Michie, S. (2019). Development of a formal system for representing behaviour-change theories., Nature Human Behaviour,;3 (5)e:2397-3374, 526-536, DOI: 10.1038/s41562-019-0561-2. 
+### Literature
+- Donovan, R. & Henley, N. (2012). Principles and Practice of Social Marketing: An International Perspective. Cambridge University Press. 
+- McGuire, W. J. (2001). Input and output variables currently promising for constructing persuasive communications. In R. E. Rice & C. K. Atkin (Eds.),
+ Public communication campaigns (pp. 22- 48). Thousand Oaks, CA: Sage. 
+- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. Thousand Oaks, CA: Sage. 
+- West, R., Godinho, C., Bohlen, L., Carey, R., Hastings, J., Lefevre, C., & Michie, S. (2019). Development of a formal system for representing behaviour-change theories., Nature Human Behaviour,;3 (5)e:2397-3374, 526-536, DOI: 10.1038/s41562-019-0561-2. 
 
 </exercise>
 
@@ -130,12 +119,10 @@ West, R., Godinho, C., Bohlen, L., Carey, R., Hastings, J., Lefevre, C., & Michi
 
 <exercise id="4" title="Seeds for success: Strategy, theory, and research" type="video">
   
+### Video
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ijZipUhwLVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
 
-
-- Quiz
-<p></p>
+### Quiz
 The best campaign objectives are written to be broad and inclusive of an entire field in order to incorporate the largest goal possible.
 <choice>
 <opt text="True">
@@ -147,14 +134,12 @@ Right, broad goals are often a problem. Goals should be SMART - Specific Measure
 </choice>
 
 
-- CommLibs Exercise 
-
+### CommLibs Exercise 
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMlBKRzZZVjBVTUdDQlpXMDQzMVoxOTM4Mi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
-- Literature
-<p></p>
-Doerr, J.E. (2018). Measure what matters : how Google, Bono, and the Gates Foundation rock the world with OKRs. Penguin Books.
-Ordoñez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting. Academy of Management Perspectives, 23(1), 6-16.http://dx.doi.org/10.5465/AMP.2009.37007999
+### Literature
+- Doerr, J.E. (2018). Measure what matters : how Google, Bono, and the Gates Foundation rock the world with OKRs. Penguin Books.
+- Ordoñez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting. Academy of Management Perspectives, 23(1), 6-16.http://dx.doi.org/10.5465/AMP.2009.37007999
 
 
 </exercise>
@@ -164,20 +149,20 @@ Ordoñez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). G
 Congratulations to completing the first chapter. The goal of this chapter was to bring everyone on more or less the same page, providing common ground and cover the minimal basics of the role of mass communication within public health. 
 
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQkgyRDg0VVlRUzZCMEhMUzc4REhCMUlIUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
- 
-<p></p>
 
 </exercise>
 
 <exercise id="6" title="Intro to the campaign project"  type="video">
 
+### Video
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Zbn8U4Oabe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
+### Writing Tips
 <center><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/IcM0MzByjlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
-- Provisional Common Document
+### Provisional Common Document
 <a href="https://michiganstate-my.sharepoint.com/:w:/g/personal/schmaelz_msu_edu/EU3eaArExf9Goc9hR96oKQcBrwEQLjm15D-0q-YN8M_wyg?e=z6c2hl"> Link to our common Document</a>
 
 </exercise>
