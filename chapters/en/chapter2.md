@@ -50,20 +50,13 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 - Under Construction
 </exercise>
 
-</exercise>
-
 
 <exercise id="4" title="Previous campaign analysis">
 
 - Under Construction
 </exercise>
 
-</exercise>
-
-
 <exercise id="5" title="Writing the section on formative research" type="slides,video">
 
 - Under Construction
-</exercise>
-
 </exercise>
