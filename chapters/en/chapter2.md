@@ -102,7 +102,7 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 
 ### Video
-Audience Analysis Overview
+Audience Analysis
 <center><iframe width="560" height="315" src="https://youtu.be/n6GGCzDDyZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 Audience Segmentation
@@ -121,6 +121,11 @@ Audience analysis involves gathering and interpreting information about the reci
 <opt  text="that it let's you find out the weak points (pressure points) of the audience so you can exploit it.">
 Since the public health communication situation does not usually take place in a combative setting, knowing a pressure point is of little use. Audience analysis is a broader concept that helps you understand the audience to create a profile of their knowledge, attitudes, habits, whom they are listening to and when. </opt>
 </choice>
+The goal of Audience Segmentation is 
+<choice>
+<opt correct="true" text="to create homogenous groups that overlap in terms of relevant characteristics."></opt>
+<opt  text="to create heterogeneous groups that don't overlap in terms of relevant characteristics."></opt>
+</choice>
 
 ### Reflection 
 (must be logged in)
@@ -128,7 +133,8 @@ Since the public health communication situation does not usually take place in a
 
 ### Literature
 - Slater, M. D., Kelly, K. J., & Thackeray, R. (2006). Segmentation on a shoestring: Health audience segmentation in limited-budget and local social marketing interventions. Health promotion practice, 7(2), 170-173..
-- Dietrich, T., Rundle-Thiele, S., & Kubacki, K. (2017). Segmentation in social marketing (Vol. 1). Berlin, Germany: Springer.
+- Dietrich, T., Rundle-Thiele, S., & Kubacki, K. (2017). Segmentation in social marketing. Berlin, Germany: Springer.
+- Shi, J., Poorisat, T., & Salmon, C. T. (2018). The use of social networking sites (SNSs) in health communication campaigns: review and recommendations. Health communication, 33(1), 49-56.
 
 </exercise>
 
