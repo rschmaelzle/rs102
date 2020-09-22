@@ -102,7 +102,15 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 
 ### Video
-<center><iframe width="560" height="315" src="https://youtu.be/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+Audience Analysis Overview
+<center><iframe width="560" height="315" src="https://youtu.be/n6GGCzDDyZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+Audience Segmentation
+<center><iframe width="560" height="315" src="https://youtu.be/7r4jRtTxjP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+Audience Variables - Receiver Characteristics
+<center><iframe width="560" height="315" src="https://youtu.be/Ts_C3z6S9I4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 
 ### Quiz
 <p></p>
