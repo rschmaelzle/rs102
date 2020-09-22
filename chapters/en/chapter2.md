@@ -100,7 +100,28 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 <exercise id="4" title="Audience analysis">
 
-- Under Construction
+
+### Video
+<center><iframe width="560" height="315" src="https://youtu.be/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+### Quiz
+<p></p>
+The core idea behind Audience Analysis is 
+<choice>
+<opt correct="true" text="that communication can be optimized by adapting the message to audience.">
+Audience analysis involves gathering and interpreting information about the recipients. The goal is to use this information to craft a more effective message and deliver it with higher precision.</opt>
+<opt  text="that it let's you find out the weak points (pressure points) of the audience so you can exploit it.">
+Since the public health communication situation does not usually take place in a combative setting, knowing a pressure point is of little use. Audience analysis is a broader concept that helps you understand the audience to create a profile of their knowledge, attitudes, habits, whom they are listening to and when. </opt>
+</choice>
+
+### Reflection 
+(must be logged in)
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMldCNkkxRUxBSkRMVFlSVUtFR0NQVE83Qy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
+### Literature
+- Slater, M. D., Kelly, K. J., & Thackeray, R. (2006). Segmentation on a shoestring: Health audience segmentation in limited-budget and local social marketing interventions. Health promotion practice, 7(2), 170-173..
+- Dietrich, T., Rundle-Thiele, S., & Kubacki, K. (2017). Segmentation in social marketing (Vol. 1). Berlin, Germany: Springer.
+
 </exercise>
 
 
