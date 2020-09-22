@@ -71,9 +71,28 @@ promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 
 <exercise id="3" title="Previous campaign analysis">
 
-- Under Construction
-</exercise>
+### Video
+<center><iframe width="560" height="315" src="https://youtu.be/LJaE4F-vzHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+### Quiz
+<p></p>
+A Content Analysis of prior campaign topics is 
+<choice>
+<opt correct="true" text="perhaps and ideal job for an intern to perform.">
+Analyzing themes and strategies of existing campaigns provides a sound basis for identifying the 'white space' that your campaign could fill and it helps you to get a clearer picture of the space you are operating in.</opt>
+<opt  text="too much effort and not recommended because it may confuse the clarity of your concept">
+The effort needed for performing such an analysis is actually rather minimal, especially given modern tools. Also, at this stage of the campaign planning process, you shouldn't cling too much to existing concepts. </opt>
+</choice>
+
+### Reflection 
+(must be logged in)
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UN0ZLVEM1TTdWMERGMERZR0hMVFU3U0FZQS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
+### Literature
+- Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
+promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
+- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.</exercise>
+</exercise>
 
 <exercise id="4" title="Audience analysis">
 
