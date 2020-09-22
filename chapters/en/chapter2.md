@@ -36,6 +36,7 @@ More  than  half  of  campaign  efforts  report  no  formative  research  effort
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
 promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
 - Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
+
 </exercise>
 
 
@@ -65,8 +66,9 @@ A SWOT Analysis is a method under the genneral term situation analysis that exam
 ### Literature
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
 promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
-- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.</exercise>
+- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
 
+</exercise>
 
 
 <exercise id="3" title="Previous campaign analysis">
@@ -91,14 +93,15 @@ The effort needed for performing such an analysis is actually rather minimal, es
 ### Literature
 - Noar SM. (2012). An Audience-Channel-Message-Evaluation (ACME) Framework for Health Communication Campaigns. Health 
 promotion practice. 13(4), 481-8. https://doi.org/10.1177/1524839910386901.
-- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.</exercise>
+- Rice, R. E., & Atkin, C. K. (2012). Public communication campaigns. SAGE.
+
 </exercise>
+
 
 <exercise id="4" title="Audience analysis">
 
 - Under Construction
 </exercise>
-
 
 
 <exercise id="5" title="Writing the section on formative research" type="slides,video">
