@@ -18,7 +18,6 @@ id: 2
 - Under Construction
 </exercise>
 
-</exercise>
 
 <exercise id="3" title="Audience analysis">
 
