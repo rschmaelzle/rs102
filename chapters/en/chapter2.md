@@ -8,7 +8,7 @@ type: chapter
 id: 2
 ---
 
-<exercise id="1" title="Formative research" type="slides,video">
+<exercise id="1" title="Formative research">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ramH82O-4NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -135,7 +135,8 @@ Since the public health communication situation does not usually take place in a
 </exercise>
 
 
-<exercise id="5" title="Writing the section on formative research" type="slides,video">
+<exercise id="5" title="Writing the section on formative research">
+
 ### Video
 Audience Analysis
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/66UoNiaXApQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
