@@ -119,37 +119,29 @@ Englewood Cliffs, NJ: Prentice-Hall.
 </exercise>
 
 <exercise id="5" title="Social Norms">
-
-
-- Under Construction
+Under Construction
 </exercise>
 
 <exercise id="6" title="Social Cognitive Theory & Entertainment Education">
-
-- Under Construction
+Under Construction
 </exercise>
 
 <exercise id="7" title="Reactance Theory">
-
-- Under Construction
+Under Construction
 </exercise>
 
-<exercise id="8" title="Framing" type="slides,video">
-
+<exercise id="8" title="Framing">
 - Under Construction
 </exercise>
 
 <exercise id="9" title="Inoculation Theory">
-
-- Under Construction
+Under Construction
 </exercise>
 
 <exercise id="10" title="So many Theories: Which one to chose?">
-
-- Under Construction
+Under Construction
 </exercise>
 
 <exercise id="11" title="Writing the Theory-Section and Crafting a Message Brief">
-
-- Under Construction
+Under Construction
 </exercise>
