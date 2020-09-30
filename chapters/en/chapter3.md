@@ -93,6 +93,8 @@ The Health Belief Model ...
 <exercise id="4" title="Theory of Reasoned Action - Theory of Planned Behavior">
 
 ### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DFn-IOcpd8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/VyOMxy7fPXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
@@ -113,35 +115,118 @@ The Theory of Reasoned Action ...
 Decision Processes, 50: 179-211.
 - Ajzen, I. & M. Fishbein, M. (1980). Understanding attitudes and predicting social behavior.
 Englewood Cliffs, NJ: Prentice-Hall.
-- Yzer, M. (2012). The integrative model of behavioral prediction as a tool for designing health messages. In. Cho, H. Health communication message design: Theory and practice.
 - Hevey, D. (2018). Network analysis: a brief overview and tutorial. Health Psychology and Behavioral Medicine, 6(1), 301-328.
+- Hornik, R., & Woolf, K. D. (1999). Using cross-sectional surveys to plan message strategies. Social Marketing Quarterly, 5(2), 34-41.
+- Yzer, M. (2012). The integrative model of behavioral prediction as a tool for designing health messages. In. Cho, H. Health communication message design: Theory and practice.
 
 </exercise>
 
+
 <exercise id="5" title="Social Norms">
+
+### Video
 Under Construction
+
+### Quiz
+Under Construction
+
+### Reflection
+Under Construction
+
+### Literature
+
 </exercise>
 
 <exercise id="6" title="Social Cognitive Theory & Entertainment Education">
+
+### Video
 Under Construction
+
+### Quiz
+Under Construction
+
+### Reflection
+Under Construction
+
+### Literature
+
 </exercise>
 
 <exercise id="7" title="Reactance Theory">
+
+### Video
 Under Construction
+
+### Quiz
+Under Construction
+
+### Reflection
+Under Construction
+
+### Literature
+
 </exercise>
+
 
 <exercise id="8" title="Framing">
-- Under Construction
+
+### Video
+Under Construction
+
+### Quiz
+Under Construction
+
+### Reflection
+Under Construction
+
+### Literature
+
 </exercise>
+
 
 <exercise id="9" title="Inoculation Theory">
+
+### Video
 Under Construction
+
+### Quiz
+Under Construction
+
+### Reflection
+Under Construction
+
+### Literature
+
 </exercise>
+
 
 <exercise id="10" title="So many Theories: Which one to chose?">
+
+### Video
 Under Construction
+
+### Quiz
+Under Construction
+
+### Reflection
+Under Construction
+
+### Literature
+
 </exercise>
 
+
 <exercise id="11" title="Writing the Theory-Section and Crafting a Message Brief">
+
+### Video
 Under Construction
+
+### Quiz
+Under Construction
+
+### Reflection
+Under Construction
+
+### Literature
+
 </exercise>
