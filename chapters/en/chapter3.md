@@ -124,33 +124,49 @@ Englewood Cliffs, NJ: Prentice-Hall.
 
 <exercise id="5" title="Social Norms">
 
+
 ### Video
-Under Construction
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/io9HPHL4zVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
-Under Construction
+Social Norms Question...    
+<choice>
+<opt  correct="true" text="sasd."></opt>
+<opt text="asdf"></opt>
+</choice>
 
-### Reflection
-Under Construction
+### Reflection 
+(must be logged in) 
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQ0IyTjdIVkU5UkU3WllFQzZYVkZCSFYwRi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
+- Norms Literature
 
 </exercise>
 
 <exercise id="6" title="Social Cognitive Theory & Entertainment Education">
 
 ### Video
-Under Construction
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DC7ylGOrXjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
-Under Construction
+Social Cognitive Question...    
+<choice>
+<opt  correct="true" text="sasd."></opt>
+<opt text="asdf"></opt>
+</choice>
 
 ### Reflection
-Under Construction
+(must be logged in) 
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzlKWVpXUlVVUEFXMzhZU0I4WFY3OTZaNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
+- 
 
 </exercise>
+
 
 <exercise id="7" title="Reactance Theory">
 
