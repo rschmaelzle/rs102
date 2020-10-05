@@ -178,11 +178,11 @@ Inverse observational learning is a made up term. The key mechanism ofnarrative 
 <exercise id="7" title="Reactance Theory">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nsTNpL_vb14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Mark Twain gave the following example: "Adam was but human—this explains it all. He did not want the apple for the apple's sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent." (Twain, 1893/1996, p. 27). This example illustrates that:
+Mark Twain gave the following example: "Adam was but human — this explains it all. He did not want the apple for the apple's sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent." (Twain, 1893/1996, p. 27). This example illustrates that:
 <choice>
 <opt  correct="true" text="People using reverse psychology can play on reactance, attempting to influence someone to choose the opposite of what they request."></opt>
 <opt text="Eve ate the apple because she observed Adam's reactance (i.e. a combination of social learning and reactance theory)."></opt>
