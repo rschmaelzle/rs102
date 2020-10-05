@@ -130,10 +130,11 @@ Englewood Cliffs, NJ: Prentice-Hall.
 <p></p>
 
 ### Quiz
-Social Norms Question...    
+A social norm is a     
 <choice>
-<opt  correct="true" text="sasd."></opt>
-<opt text="asdf"></opt>
+<opt  text="culturally binding law (has legal status)."></opt>
+<opt  correct="true" text="spoken or unspoken rule concerning how we ought to behave."></opt>
+<opt text="the same as a taboo"></opt>
 </choice>
 
 ### Reflection 
@@ -141,7 +142,9 @@ Social Norms Question...
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQ0IyTjdIVkU5UkU3WllFQzZYVkZCSFYwRi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
-- Norms Literature
+- Lapinski, M. K., & Rimal, R. N. (2005). An explication of social norms. Communication theory, 15(2), 127-147.
+- Chung, A., & Rimal, R. N. (2016). Social norms: A review. Review of Communication Research, 4, 1-28.
+- Grayson, A., Totzkay, D. S., Walling, B. M., Ingalls, J., Viken, G., Smith, S. W., & Silk, K. J. (2019). Formative research identifying message strategies for a campus bicycle safety campaign using self-determination theory and the social norms approach. Accident Analysis & Prevention, 133, 105295.
 
 </exercise>
 
@@ -152,10 +155,11 @@ Social Norms Question...
 <p></p>
 
 ### Quiz
-Social Cognitive Question...    
+Purposefully embedding persuasive messages in an entertainment program is a good example of.    
 <choice>
-<opt  correct="true" text="sasd."></opt>
-<opt text="asdf"></opt>
+<opt  correct="true" text="Entertainment Education."></opt>
+<opt text="Inverse observational learning, which is the key mechanism of narrative persuasion."></opt>
+Inverse observational learning is a made up term. The key mechanism ofnarrative persuasion has likely to do with absorption and vicarious/empathic responses.
 </choice>
 
 ### Reflection
@@ -163,7 +167,10 @@ Social Cognitive Question...
 <center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzlKWVpXUlVVUEFXMzhZU0I4WFY3OTZaNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
-- 
+- Moyer-Gusé, E. (2008). Toward a theory of entertainment persuasion: Explaining the persuasive effects of entertainment-education messages. Communication theory, 18(3), 407-425.
+- Singhal, A., & Rogers, E. (2012). Entertainment-education: A communication strategy for social change. Routledge.
+- Bandura, A. (2004). Health promotion by social cognitive means. Health education & behavior, 31(2), 143-164.
+- Bandura, A. (2005). The evolution of social cognitive theory. Great minds in management, 9-35.
 
 </exercise>
 
@@ -171,20 +178,30 @@ Social Cognitive Question...
 <exercise id="7" title="Reactance Theory">
 
 ### Video
-Under Construction
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ToDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
-Under Construction
+Mark Twain gave the following example: "Adam was but human—this explains it all. He did not want the apple for the apple's sake, he wanted it only because it was forbidden. The mistake was in not forbidding the serpent; then he would have eaten the serpent." (Twain, 1893/1996, p. 27). This example illustrates that:
+<choice>
+<opt  correct="true" text="People using reverse psychology can play on reactance, attempting to influence someone to choose the opposite of what they request."></opt>
+<opt text="Eve ate the apple because she observed Adam's reactance (i.e. a combination of social learning and reactance theory)."></opt>
+</choice>
 
 ### Reflection
-Under Construction
+(must be logged in) 
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URVAwWDlTVDNINlZHWlpCMzNWOVFDWlNPQy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 ### Literature
+- Brehm, J. W. (1966). A theory of psychological reactance. Academic Press.
+- Read: Miller, C. H., Massey, Z. B., & Ma, H. (2020). Psychological reactance and persuasive message design. The Handbook of Applied Communication Research, 457-483.
+- Quick, B. L., Shen, L., & Dillard, J. P. (2013). Reactance theory and persuasion. The SAGE handbook of persuasion: Developments in theory and practice, 167-183.
+- Dillard, J. P., & Shen, L. (2005). On the nature of reactance and its role in persuasive health communication. Communication Monographs, 72(2), 144-168.
 
 </exercise>
 
 
-<exercise id="8" title="Framing">
+<exercise id="8" title="Inoculation Theory">
 
 ### Video
 Under Construction
@@ -200,7 +217,7 @@ Under Construction
 </exercise>
 
 
-<exercise id="9" title="Inoculation Theory">
+<exercise id="9" title="Framing">
 
 ### Video
 Under Construction
