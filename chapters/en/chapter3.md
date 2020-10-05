@@ -124,7 +124,6 @@ Englewood Cliffs, NJ: Prentice-Hall.
 
 <exercise id="5" title="Social Norms">
 
-
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/io9HPHL4zVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
@@ -151,7 +150,31 @@ A social norm is a
 
 <exercise id="6" title="Social Learning and Entertainment Education">
 
-ToDo
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DC7ylGOrXjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Purposefully embedding persuasive messages in an entertainment program is a good example of 
+<choice>
+<opt correct="true" text="Entertainment Education.">
+Well done.
+</opt>
+<opt text="Inverse observational learning, which is the key mechanism of narrative persuasion.">
+Inverse observational learning is a made up term. The key mechanism ofnarrative persuasion has likely to do with absorption and vicarious/empathic responses.</opt>
+</choice>
+
+
+### Reflection
+(must be logged in) 
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzlKWVpXUlVVUEFXMzhZU0I4WFY3OTZaNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe></center>
+
+
+### Literature
+- Moyer-Guse, E. (2008). Toward a theory of entertainment persuasion: Explaining the persuasive effects of entertainment-education messages. Communication theory, 18(3), 407-425.
+- Singhal, A., & Rogers, E. (2012). Entertainment-education: A communication strategy for social change. Routledge.
+- Bandura, A. (2004). Health promotion by social cognitive means. Health education & behavior, 31(2), 143-164.
+- Bandura, A. (2005). The evolution of social cognitive theory. Great minds in management, 9-35.
 
 </exercise>
 
@@ -192,9 +215,9 @@ Mark Twain gave the following example: "Adam was but human — this explains it 
 Inoculation Theory uses medical inoculation as its explanatory analogy - applied to attitudes or beliefs rather than to a disease.
 <choice>
 <opt text="False."> 
- </opt>  
+Sorry. </opt>  
 <opt correct="true" text="True."> 
-  </opt>
+Well done!  </opt>
 </choice>
 
 
@@ -224,7 +247,7 @@ Framing: The WHO put out this <a href = "https://twitter.com/WHO/status/11920712
 <choice>
 <opt text="positive frame.">
    </opt>  
-<opt  correct="true" text="negative frame.">
+<opt correct="true" text="negative frame.">
    </opt>
 </choice>
 
