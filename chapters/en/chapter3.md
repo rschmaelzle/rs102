@@ -148,7 +148,8 @@ A social norm is a
 
 </exercise>
 
-<exercise id="6" title="Social Cognitive Theory & Entertainment Education">
+
+<exercise id="6" title="Social Learning and Entertainment Education">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/DC7ylGOrXjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -157,17 +158,17 @@ A social norm is a
 ### Quiz
 Purposefully embedding persuasive messages in an entertainment program is a good example of.    
 <choice>
-<opt  correct="true" text="Entertainment Education."></opt>
+<opt correct="true" text="Entertainment Education."></opt>
 <opt text="Inverse observational learning, which is the key mechanism of narrative persuasion."></opt>
 Inverse observational learning is a made up term. The key mechanism ofnarrative persuasion has likely to do with absorption and vicarious/empathic responses.
 </choice>
 
 ### Reflection
 (must be logged in) 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzlKWVpXUlVVUEFXMzhZU0I4WFY3OTZaNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzlKWVpXUlVVUEFXMzhZU0I4WFY3OTZaNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe></center>
 
 ### Literature
-- Moyer-Gusé, E. (2008). Toward a theory of entertainment persuasion: Explaining the persuasive effects of entertainment-education messages. Communication theory, 18(3), 407-425.
+- Moyer-Guse, E. (2008). Toward a theory of entertainment persuasion: Explaining the persuasive effects of entertainment-education messages. Communication theory, 18(3), 407-425.
 - Singhal, A., & Rogers, E. (2012). Entertainment-education: A communication strategy for social change. Routledge.
 - Bandura, A. (2004). Health promotion by social cognitive means. Health education & behavior, 31(2), 143-164.
 - Bandura, A. (2005). The evolution of social cognitive theory. Great minds in management, 9-35.
@@ -178,7 +179,7 @@ Inverse observational learning is a made up term. The key mechanism ofnarrative 
 <exercise id="7" title="Reactance Theory">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zPCcP1NgqSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nsTNpL_vb14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
