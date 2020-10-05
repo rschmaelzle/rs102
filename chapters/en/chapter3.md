@@ -160,7 +160,7 @@ Purposefully embedding persuasive messages in an entertainment program is a good
 <choice>
 <opt correct="true" text="Entertainment Education."></opt>
 <opt text="Inverse observational learning, which is the key mechanism of narrative persuasion."></opt>
-Inverse observational learning is a made up term. The key mechanism ofnarrative persuasion has likely to do with absorption and vicarious/empathic responses.
+Inverse observational learning is a made up term. The key mechanism ofnarrative persuasion has likely to do with absorption and vicarious/empathic responses.</opt>
 </choice>
 
 ### Reflection
@@ -232,16 +232,32 @@ Inoculation Theory uses medical inoculation as its explanatory analogy - applied
 <exercise id="9" title="Framing">
 
 ### Video
-Under Construction
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/utP4KWhWyYc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
 
 ### Quiz
-Under Construction
+Framing: The WHO put out this <a href = "https://twitter.com/WHO/status/1192071297230147584</a> tweet, which says that extreme side effects of influenza vaccination are extremely rare (as opposed to saying "the vast majority of people who get vaccinated do not experience any side effects at all"). This is an example of a
+<choice>
+<opt text="positive frame."></opt>  
+<opt  correct="true" text="negative frame."></opt>
+</choice>
+
 
 ### Reflection
-Under Construction
+(must be logged in) 
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNlhONVZDUzRIUkxCM1lXOFY2UjM3S1U3VC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
 
 ### Literature
-
+- Guenther, L., Gaertner, M., & Zeitz, J. (2020). Framing as a Concept for Health Communication: A Systematic Review. Health Communication, 1-9.
+- O’Keefe, D. J., & Nan, X. (2012). The relative persuasiveness of gain- and loss-framed messages for promoting vaccination: A meta-analytic
+review. Health Communication, 27(8), 776–783. doi:10.1080/10410236.2011.640974
+- Rothman, A. J., & Salovey, P. (1997). Shaping perceptions to motivate healthy behavior: The role of message framing. Psychological Bulletin,
+121(1), 3–19. doi:10.1037/0033-2909.121.1.3
+- Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458. doi:10.1126/science.7455683
+- Gallagher, K. M., & Updegraff, J. A. (2012). Health message framing effects on attitudes, intentions, and behavior: A meta-analytic review. Annals of Behavioral Medicine, 43, 101–116. doi:10.1007/s12160-011-9308-7
+- Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of Communication, 43(4), 51–58. doi:10.1111/j.1460-2466.1993.tb01304.x
 </exercise>
 
 
