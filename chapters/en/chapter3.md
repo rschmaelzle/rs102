@@ -151,27 +151,7 @@ A social norm is a
 
 <exercise id="6" title="Social Learning and Entertainment Education">
 
-### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DC7ylGOrXjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
-
-### Quiz
-Purposefully embedding persuasive messages in an entertainment program is a good example of.    
-<choice>
-<opt correct="true" text="Entertainment Education."></opt>
-<opt text="Inverse observational learning, which is the key mechanism of narrative persuasion."></opt>
-Inverse observational learning is a made up term. The key mechanism ofnarrative persuasion has likely to do with absorption and vicarious/empathic responses.</opt>
-</choice>
-
-### Reflection
-(must be logged in) 
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzlKWVpXUlVVUEFXMzhZU0I4WFY3OTZaNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe></center>
-
-### Literature
-- Moyer-Guse, E. (2008). Toward a theory of entertainment persuasion: Explaining the persuasive effects of entertainment-education messages. Communication theory, 18(3), 407-425.
-- Singhal, A., & Rogers, E. (2012). Entertainment-education: A communication strategy for social change. Routledge.
-- Bandura, A. (2004). Health promotion by social cognitive means. Health education & behavior, 31(2), 143-164.
-- Bandura, A. (2005). The evolution of social cognitive theory. Great minds in management, 9-35.
+ToDo
 
 </exercise>
 
@@ -211,9 +191,12 @@ Mark Twain gave the following example: "Adam was but human — this explains it 
 ### Quiz
 Inoculation Theory uses medical inoculation as its explanatory analogy - applied to attitudes or beliefs rather than to a disease.
 <choice>
-<opt text="False."></opt>  
-<opt  correct="true" text="True."></opt>
+<opt text="False."> 
+ </opt>  
+<opt correct="true" text="True."> 
+  </opt>
 </choice>
+
 
 ### Reflection
 (must be logged in) 
@@ -239,8 +222,10 @@ Inoculation Theory uses medical inoculation as its explanatory analogy - applied
 ### Quiz
 Framing: The WHO put out this <a href = "https://twitter.com/WHO/status/1192071297230147584</a> tweet, which says that extreme side effects of influenza vaccination are extremely rare (as opposed to saying "the vast majority of people who get vaccinated do not experience any side effects at all"). This is an example of a
 <choice>
-<opt text="positive frame."></opt>  
-<opt  correct="true" text="negative frame."></opt>
+<opt text="positive frame.">
+   </opt>  
+<opt  correct="true" text="negative frame.">
+   </opt>
 </choice>
 
 
@@ -257,7 +242,8 @@ review. Health Communication, 27(8), 776–783. doi:10.1080/10410236.2011.640974
 121(1), 3–19. doi:10.1037/0033-2909.121.1.3
 - Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458. doi:10.1126/science.7455683
 - Gallagher, K. M., & Updegraff, J. A. (2012). Health message framing effects on attitudes, intentions, and behavior: A meta-analytic review. Annals of Behavioral Medicine, 43, 101–116. doi:10.1007/s12160-011-9308-7
-- Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of Communication, 43(4), 51–58. doi:10.1111/j.1460-2466.1993.tb01304.x
+- Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of Communication, 43(4), 51–58. doi:10.1111/j.1460-2466.1993.tb01304.x 
+
 </exercise>
 
 
