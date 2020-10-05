@@ -178,7 +178,7 @@ Inverse observational learning is a made up term. The key mechanism ofnarrative 
 <exercise id="7" title="Reactance Theory">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nsTNpL_vb14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zPCcP1NgqSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -204,11 +204,11 @@ Mark Twain gave the following example: "Adam was but human — this explains it 
 <exercise id="8" title="Inoculation Theory">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TDC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ckAhLRrAAgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Inoculation Theory uses medical inoculation as its explanatory analogy--applied to attitudes (or beliefs) rather than to a disease.
+Inoculation Theory uses medical inoculation as its explanatory analogy - applied to attitudes or beliefs rather than to a disease.
 <choice>
 <opt text="False."></opt>  
 <opt  correct="true" text="True."></opt>
