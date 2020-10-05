@@ -204,15 +204,26 @@ Mark Twain gave the following example: "Adam was but human — this explains it 
 <exercise id="8" title="Inoculation Theory">
 
 ### Video
-Under Construction
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TDC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 ### Quiz
-Under Construction
+Inoculation Theory uses medical inoculation as its explanatory analogy--applied to attitudes (or beliefs) rather than to a disease.
+<choice>
+<opt text="False."></opt>  
+<opt  correct="true" text="True."></opt>
+</choice>
 
 ### Reflection
-Under Construction
+(must be logged in) 
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOVczUFZEWVRTQzEwUEcwNVlKRE42SDIxTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
 
 ### Literature
+- Banas, J. A., & Rains, S. A. (2010). A meta-analysis of research on inoculation theory. Communication Monographs, 77(3), 281-311.
+- Compton, J. (2013). Inoculation theory. The Sage handbook of persuasion: Developments in theory and practice, 2, 220-237.
+- Pfau, M. (1995). Designing messages for behavioral inoculation. In E. Maibach & R. L. Parrott (Eds.), Designing health messages: Approaches from communication theory and public health practice (p. 99–113). Sage Publications, Inc.
+- McGuire, W. J. (1961b). Resistance to persuasion conferred by active and passive priorrefutation of same and alternative counterarguments. Journal of Abnormal and SocialPsychology, 63(2), 326–332.
 
 </exercise>
 
