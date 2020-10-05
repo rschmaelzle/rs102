@@ -212,12 +212,10 @@ Mark Twain gave the following example: "Adam was but human — this explains it 
 <p></p>
 
 ### Quiz
-Inoculation Theory uses medical inoculation as its explanatory analogy - applied to attitudes or beliefs rather than to a disease.
+Inoculation Theory uses medical inoculation as its explanatory analogy, applied to attitudes or beliefs rather than to a disease.
 <choice>
-<opt text="False."> 
-Sorry. </opt>  
-<opt correct="true" text="True."> 
-Well done!  </opt>
+<opt  correct="true" text="yes."></opt>
+<opt text="no."></opt>
 </choice>
 
 
@@ -243,12 +241,10 @@ Well done!  </opt>
 
 
 ### Quiz
-Framing: The WHO put out this <a href = "https://twitter.com/WHO/status/1192071297230147584</a> tweet, which says that extreme side effects of influenza vaccination are extremely rare (as opposed to saying "the vast majority of people who get vaccinated do not experience any side effects at all"). This is an example of a
+The WHO put out this <a href = "https://twitter.com/WHO/status/1192071297230147584</a> tweet, which says that extreme side effects of influenza vaccination are extremely rare (as opposed to saying "the vast majority of people who get vaccinated do not experience any side effects at all"). This is an example of a
 <choice>
-<opt text="positive frame.">
-   </opt>  
-<opt correct="true" text="negative frame.">
-   </opt>
+<opt  correct="true" text="negative frame."></opt>
+<opt text="positive frame."></opt>
 </choice>
 
 
