@@ -266,18 +266,76 @@ review. Health Communication, 27(8), 776–783. doi:10.1080/10410236.2011.640974
 </exercise>
 
 
+<exercise id="10" title="Stages of Change Model">
+
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/oO80XyBDrl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Noah has been thinking seriously about quitting to smoke.   
+<choice>
+<opt correct="true" text="Contemplation stage.">
+In this stage, people are intending to start the healthy behavior in the foreseeable future (defined as within the next 6 months). People recognize that their behavior may be problematic, and a more thoughtful and practical consideration of the pros and cons of changing the behavior takes place, with equal emphasis placed on both.
+</opt>
+<opt text="Precontemplation stage.">
+In this stage, people do not intend to take action in the foreseeable future (defined as within the next 6 months). People are often unaware that their behavior is problematic or produces negative consequences. People in this stage often underestimate the pros of changing behavior and place too much emphasis on the cons of changing behavior.</opt>
+<opt text="Action stage.">
+In this stage, people have recently changed their behavior (defined as within the last 6 months) and intend to keep moving forward with that behavior change. People may exhibit this by modifying their problem behavior or acquiring new healthy behaviors.</opt>
+<opt text="None of the above.">
+The contemplation stage is the correct answer.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNlAwVVVHS1VCRUswRUo5UlNJUjhMUEdCQi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
+
+### Literature
+- Prochaska, J.O. and DiClemente, C.C. (1984). The transtheoretical approach: Crossing the traditional boundaries of therapy. Melbourne, Florida: Krieger Publishing Company.
+- Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: toward an integrative model of change. Journal of consulting and clinical psychology, 51(3), 390.
+- Velicer, W. F., Prochaska, J. O., Fava, J. L., Rossi, J. S., Redding, C. A., Laforge, R. G., Robbins, M. L. (2000). Using the Transtheoretical Model for
+Population-based Approaches to Health Promotion and Disease Prevention. Homeostasis in Health and Disease, 40, 174-195. 
+
+</exercise>
+
+
 <exercise id="10" title="So many Theories: Which one to chose?">
 
 ### Video
-Under Construction
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
 
 ### Quiz
-Under Construction
+You come across an anti-smoking message. The message contains text and images, and it uses a "split screen" in which one side presents negative imagery (dead bodies from smoking), the other side contains healthy-looking people walking through the woods breathing fresh air. The text on the left side presents statistics that most long-term smokers experience negative health consequences, the right side states that although quitting can be hard, it is doable and reduces the risk of smoking. This message was probably designed based on the .   
+<choice>
+<opt text="Inoculation Theory.">
+An inoculation message would be more appropriate to give to people before they become hooked to cigarettes. 
+</opt>
+<opt text="Stages of Change.">
+Although the message could be directed at current smokers who want to quit, there isn't much in the message that looks as if it was targeted to specifically help this group to take the first step.</opt>
+<opt correct="true" text="EPPM.">
+The message appears to contain elements of suscceptibility, severity, self and response efficacy.</opt>
+<opt text="HBM.">
+The HBM is relatively unspecific about concrete message elements, although these overlap with susceptibility/severity (the negative imagery in the message). Perhaps the most concrete one would be a "cue to action", saying e.g. "quit now" or something similar.</opt>
+</choice>
+
 
 ### Reflection
-Under Construction
+(must be logged in)
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UMFNIQjMxQzZZT0swNFpSSVFGR0ZEMUU4VC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+
 
 ### Literature
+- Rice, R. E., & Atkin, C. K. (Eds.). (2012). Public communication campaigns. SAGE publications.
+- Cho, H. (Ed.). (2011). Health communication message design: Theory and practice. Sage Publications.
+- Taylor, S. E. (2006). Health psychology. Tata McGraw-Hill Education.
+- Wakefield, M. A., Loken, B., & Hornik, R. C. (2010). Use of mass media campaigns to change health behaviour. The Lancet, 376(9748), 1261-1271.
 
 </exercise>
 
@@ -285,14 +343,7 @@ Under Construction
 <exercise id="11" title="Writing the Theory-Section and Crafting a Message Brief">
 
 ### Video
-Under Construction
-
-### Quiz
-Under Construction
-
-### Reflection
-Under Construction
-
-### Literature
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
 
 </exercise>
