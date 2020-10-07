@@ -272,7 +272,7 @@ review. Health Communication, 27(8), 776–783. doi:10.1080/10410236.2011.640974
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/oO80XyBDrl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wXm9pcUT1mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -307,7 +307,7 @@ Population-based Approaches to Health Promotion and Disease Prevention. Homeosta
 <exercise id="10" title="So many Theories: Which one to chose?">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Jrl5cAGFeJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 
@@ -336,6 +336,7 @@ The HBM is relatively unspecific about concrete message elements, although these
 - Cho, H. (Ed.). (2011). Health communication message design: Theory and practice. Sage Publications.
 - Taylor, S. E. (2006). Health psychology. Tata McGraw-Hill Education.
 - Wakefield, M. A., Loken, B., & Hornik, R. C. (2010). Use of mass media campaigns to change health behaviour. The Lancet, 376(9748), 1261-1271.
+- <a href="https://www.orau.gov/hsc/theorypicker/index.html"> Theory Picker </a>
 
 </exercise>
 
