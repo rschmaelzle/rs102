@@ -347,7 +347,7 @@ The HBM is relatively unspecific about concrete message elements, although these
 <exercise id="11" title="Writing the Theory-Section and Crafting a Message Brief">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/juPKcpzri7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 </exercise>
