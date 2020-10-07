@@ -8,39 +8,198 @@ type: chapter
 id: 4
 ---
 
-<exercise id="1" title="Exposure as the cornerstone of communication effects" type="slides,video">
+<exercise id="1" title="Exposure as the cornerstone of communication effects">
 
-- Under Construction
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
+
+
 
 <exercise id="2" title="Social Networks">
 
-- Under Construction
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
 
 
 <exercise id="3" title="Diffusion of Innovations">
 
-- Under Construction
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
+
 
 <exercise id="4" title="Assessing Channels">
 
-- Under Construction
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
+
 
 <exercise id="5" title="Implementing the Campaign">
 
-- Under Construction
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
 
 
-<exercise id="6" title="Let's not forget this: Finances" type="slides,video">
+<exercise id="6" title="Let's not forget this: Finances">
 
-- Under Construction
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
+
 
 <exercise id="10" title="Writing the section">
 
-- Under Construction
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+### Quiz
+Question text? 
+<choice>
+<opt correct="true" text="Correct answer text.">
+Correct answer explanation.
+</opt>
+<opt text="Wrong answer text.">
+Wrong answer explanation.</opt>
+</choice>
+
+
+### Reflection 
+(must be logged in)
+<center>Under Construction Reflection</center>
+
+
+### Literature
+- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+
 </exercise>
