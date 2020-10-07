@@ -312,20 +312,12 @@ Population-based Approaches to Health Promotion and Disease Prevention. Homeosta
 
 
 ### Quiz
-You come across an anti-smoking message. The message contains text and images, and it uses a "split screen" in which one side presents negative imagery (dead bodies from smoking), the other side contains healthy-looking people walking through the woods breathing fresh air. The text on the left side presents statistics that most long-term smokers experience negative health consequences, the right side states that although quitting can be hard, it is doable and reduces the risk of smoking. This message was probably designed based on the ...   
-
+You come across an anti-smoking message. The message contains text and images, and it uses a "split screen" in which one side presents negative imagery (dead bodies from smoking), the other side contains healthy-looking people walking through the woods breathing fresh air. The text on the left side presents statistics that most long-term smokers experience negative health consequences, the right side states that although quitting can be hard, it is doable and reduces the risk of smoking. This message was probably designed based on the  ...    
 <choice>
-<opt text="Inoculation Theory.">
-An inoculation message would be more appropriate to give to people before they become hooked to cigarettes.</opt>
-
-<opt text="Stages of Change Model.">
-Although the message could be directed at current smokers who want to quit, there isn't much in the message that looks as if it was targeted to specifically help this group to take the first step. </opt>
-
-<opt correct="true" text="EPPM.">
-The message appears to contain elements of suscceptibility, severity, self and response efficacy. </opt>
-
-<opt text="HBM.">
-The HBM is relatively unspecific about concrete message elements, although these overlap with susceptibility/severity (the negative imagery in the message). Perhaps the most concrete one would be a "cue to action", saying e.g. "quit now" or something similar. </opt>
+<opt  correct="true" text="EPPM"></opt>
+<opt text="HBM"></opt>
+<opt text="Stages of Change"></opt>
+<opt text="Inoculation Theory"></opt>
 </choice>
 
 
