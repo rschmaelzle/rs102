@@ -54,6 +54,20 @@ Wrong answer explanation.</opt>
 </choice>
 
 
+### Code Exercise
+
+- Import the `Doc` from `spacy.tokens`.
+- Create a `Doc` from the `words` and `spaces`. Don't forget to pass in the
+  vocab!
+
+<codeblock id="02_05_01">
+
+The `Doc` class takes 3 arguments: the shared vocabulary, usually `nlp.vocab`, a
+list of `words` and a list of `spaces`, boolean values, indicating whether the
+word is followed by a space or not.
+
+</codeblock>
+
 ### Reflection 
 (must be logged in)
 <center>Under Construction Reflection</center>
