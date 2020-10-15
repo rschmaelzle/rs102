@@ -51,37 +51,40 @@ Buying, begging, or earning exposure are the three main choices you have and ide
 <p></p>
 
 ### Quiz
-Question text? 
+A ... is a connection between two nodes. 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
-</opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt correct="true" text="edge.">
+An edge is one of the two basic units out of which graphs are constructed (the other being nodes/vertices). Edges are the links between nodes. Edges may be directed or undirected.</opt>
+<opt text="weight.">
+The correct answer is edge. Weight refers to the strength of an edge in a weighted network, e.g. the intensity of friendship.</opt>
+<opt text="degree.">
+The correct answer is edge. Degree refers to the number of edges a node has.</opt>
+<opt text="path.">
+The correct answer is edge. A path refers to a the route of a 'walk' from node to node via the connecting edges.</opt>
 </choice>
 
 
 ### Code Exercise
 
-- Import the `Doc` from `spacy.tokens`.
-- Create a `Doc` from the `words` and `spaces`. Don't forget to pass in the
-  vocab!
+- Execute the code
+- Add a few edges and execute the code again
 
 <codeblock id="02_05_01">
 
-The `Doc` class takes 3 arguments: the shared vocabulary, usually `nlp.vocab`, a
-list of `words` and a list of `spaces`, boolean values, indicating whether the
-word is followed by a space or not.
+You can compute various network metrics in networkX. Briefly browse the documentation!
 
 </codeblock>
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOVQ3Sk1EUklSMjlMQ0pLQklOQVpRSksyMS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
-- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+- Travers, J., & Milgram, S. (1977). An experimental study of the small world problem. In Social Networks (pp. 179-197). Academic Press.
+- Rainie, H., & Wellman, B. (2012). Networked: The new social operating system. Cambridge, Mass: MIT Press.
+- Meng, J., Martinez, L., Holmstrom, A., Chung, M., & Cox, J. (2017). Research on social networking sites and social support from 2004 to 2015: A narrative review and directions for future research. Cyberpsychology, Behavior, and Social Networking, 20(1), 44-51.
+- Hagberg, A., Schult, D., & Swart, E. (2008). NetworkX Documentation. 2009-9-21]. http://networkx. lanl. gov.
 
 </exercise>
 
