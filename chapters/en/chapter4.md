@@ -47,7 +47,7 @@ Buying, begging, or earning exposure are the three main choices you have and ide
 <exercise id="2" title="Social Networks">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/yScxkblTH5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -96,28 +96,33 @@ You can compute various network metrics in networkX. Briefly browse the document
 <p></p>
 
 ### Quiz
-Question text? 
+Diffusion (in communication) is  
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="the process by which an innovation is communicated through certain channels over time among the members of a social system.">
+This is the right answer for the Diffusion of Innovations approach in communication.
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="is the net movement of anything (for example, atom, ions, molecules, people, ideas) from a region of higher concentration to a region of lower concentration. Diffusion is driven by a gradient in concentration.">
+The answer refers to the concept of diffusion in chemistry, which is driven by a concentration gradient. Such a gradient might also be involved in diffusion of innovations (i.e. the idea being weakly concentrated in the beginning and then increasing), but the other answer better fits with what we mean by talking about diffusion in social systems.</opt>
 </choice>
 
 
 ### Simulation
-<center><iframe width="560" height="500" src="https://www.ralfschmaelzle.net/dynamic_annotations/sbr.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+This is a simulation of the spread of COVID-19 created by Paul Smaldino (http://smaldino.com/wp/) in Netlogo (https://ccl.northwestern.edu/netlogo).
+<center><iframe width="560" height="500" src="https://www.ralfschmaelzle.net/dynamic_annotations/netlogo.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UM0NFUVo4MUJaVkVRMlhDRTYwOVpVUDA0TC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
-- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+- Barker, K. (2004) Diffusion of innovations: A world tour. Journal of Communication, 9:131–137
+- Dearing, J. (2009) Applying Diffusion of Innovation Theory to Intervention Development. Research in Social Work Practice, 19:503-518
+- Rogers, E.M. (2003). Diffusion of Innovations (5th ed.). New York: Free Press 
+- Haider, M., & Kreps, G. L. (2004). Forty years of diffusion of innovations: utility and value in public health. Journal of health communication, 9(S1), 3-11.
+
 
 </exercise>
 
