@@ -92,8 +92,14 @@ You can compute various network metrics in networkX. Briefly browse the document
 <exercise id="3" title="Diffusion of Innovations">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/q6K_-hOCQgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
+A nice description of DOI
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9QnfWhtujPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+<a href="https://www.youtube.com/watch?v=j1uc7yZH6eU">A lecture by Everett Rogers himself</a>.
+<p></p>
+
 
 ### Quiz
 Diffusion (in communication) is  
