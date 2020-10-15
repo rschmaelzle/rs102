@@ -14,24 +14,31 @@ id: 4
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/alyndwAMvkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
+Guest Lecture by Sanguk and Siyuan
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ehFX4thJ2V8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
 ### Quiz
-Question text? 
+Three paths to exposure are: to buy, to beg, or to earn media coverage. 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="True.">
+Buying time just like advertisments do is one clear path to achieve high exposure. Another route is to beg for exposure, that is to ask channels to donate time for airing messages (ion the radio, for instance, program creators are often happy to do this in order to fill slots). The third route is to draw the media's attention to the campaign and the issue more broadly. This is what PR is all about and you can find more on this under the label media advocacy
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="False.">
+Buying, begging, or earning exposure are the three main choices you have and ideally you will combine them to maximize exposure while minimizing cost.</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOVVDWVI4Q1FUR1c3QllWVFRSV0cwOE5HRS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
-- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+- Hornik, R. C. (2002). Exposure: Theory and evidence about all the ways it matters. Social Marketing Quarterly, 8(3), 31-37.
+- Kim, H. S. (2015). Attracting views and going viral: How message features and news-sharing channels affect health news diffusion. Journal of Communication, 65(3), 512-534.
+- Helme, D. W., Noar, S. M., Allard, S., Zimmerman, R. S., Palmgreen, P., & McClanahan, K. J. (2011). In-depth investigation of interpersonal discussions in response to a safer sex mass media campaign. Health Communication, 26(4), 366-378.
+- Pei, R., Schmälzle, R., Kranzler, E. C., O'Donnell, M. B., & Falk, E. B. (2019). Adolescents’ neural response to tobacco prevention messages and sharing engagement. American Journal of Preventive Medicine, 56(2), S40-S48.
 
 </exercise>
 
