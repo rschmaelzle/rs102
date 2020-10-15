@@ -136,27 +136,30 @@ This is a simulation of the spread of COVID-19 created by Paul Smaldino (http://
 <exercise id="4" title="Assessing Channels">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/2PP2viZGoHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
-Question text? 
+The advertising acronym CPM stands for ... 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
-</opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="Cost per message.">
+The right answer is cost per mille.</opt>
+<opt correct="true" text="Cost per mille.">
+The M stands for mille, which is latin for 1000. Thus, CPM refers to the cost per thousand impressions, measuring how much money it costs you to reach 1,000 readers, viewers, visitors or listeners.</opt>
+<opt text="Cost per million.">
+The right answer is cost per mille.</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UOThIUTdLVEtRQUQ3TDdYNklOTEYwVDRSSy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
-- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+- Robinson, M. N., Tansil, K. A., Elder, R. W., Soler, R. E., Labre, M. P., Mercer, S. L., ... & Sokler, L. A. (2014). Mass media health communication campaigns combined with health-related product distribution: a community guide systematic review. American journal of preventive medicine, 47(3), 360-371.
+- Shi, J., Poorisat, T., & Salmon, C. T. (2018). The use of social networking sites (SNSs) in health communication campaigns: review and recommendations. Health communication, 33(1), 49-56.
+- Johnson, J. D., Donohue, W. A., Atkin, C. K., & Johnson, S. (1994). Differences between formal and informal communication channels. The Journal of Business Communication (1973), 31(2), 111-122.
 
 </exercise>
 
