@@ -114,7 +114,7 @@ The answer refers to the concept of diffusion in chemistry, which is driven by a
 
 ### Simulation
 This is a simulation of the spread of COVID-19 created by Paul Smaldino (http://smaldino.com/wp/) in Netlogo (https://ccl.northwestern.edu/netlogo).
-<center><iframe width="560" height="500" src="https://www.ralfschmaelzle.net/dynamic_annotations/netlogo.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="860" height="800" src="https://www.ralfschmaelzle.net/dynamic_annotations/netlogo.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 
