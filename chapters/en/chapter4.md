@@ -200,19 +200,18 @@ Wrong answer explanation.</opt>
 <p></p>
 
 ### Quiz
-Question text? 
+Communication efforts within the context of public health must be exclusively funded by public sources. Private funding, or schemes that resemble those seen in political campaigns are strictly forbidden. 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
-</opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="True.">
+Private money from donors, foundations, self-raised money (e.g. via crowdfunding) can be used to fund communication efforts that aim to improve public health. However, you need to consider the consequences of entering such relationships.</opt>
+<opt correct="true" text="False.">
+You are right, there is no prohibition of such private funding. In fact, tax-empempt regulations for non-profits etc. are intended to steer money from companies, donors etc. into directions that can be socially beneficial. However, you need to consider the consequences of entering such relationships. Obviously, it would not seem appropriate or promising to have tobacco companies gain influence over the stragey of tobacco prevention efforts. In practice, the way that lobbyism and other kinds of influence operate can be very subtle. </opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UQzBaOVoySjlJSFdPRDNWRTFKSDNLOUhIVy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
