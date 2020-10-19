@@ -165,38 +165,10 @@ The right answer is cost per mille.</opt>
 </exercise>
 
 
-<exercise id="5" title="Implementing the Campaign">
+<exercise id="5" title="Let's not forget this: Finances">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
-
-### Quiz
-Question text? 
-<choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
-</opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
-</choice>
-
-
-### Reflection 
-(must be logged in)
-<center>Under Construction Reflection</center>
-
-
-### Literature
-- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
-
-</exercise>
-
-
-<exercise id="6" title="Let's not forget this: Finances">
-
-### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/JFApeNF6DCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
@@ -215,34 +187,51 @@ You are right, there is no prohibition of such private funding. In fact, tax-emp
 
 
 ### Literature
-- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+- Farrelly, M. C., Niederdeppe, J., & Yarsevich, J. (2003). Youth tobacco prevention mass media campaigns: past, present, and future directions. Tobacco control, 12(1), i35-i47.
+- Bell, R. A., Cholerton, M., Davison, V., Fraczek, K. E., & Lauter, H. (1996). Making health communication self-funding: effectiveness of pregiving in an aids fundraising/education campaign. Health Communication, 8(4), 331-352.
+- Seiler, T. L. (2003). Roadmap to fundraising success. Hank Rosso’s achieving excellence in fund raising. San Francisco, CA: Jossey-Bass.
 
 </exercise>
 
 
-<exercise id="10" title="Writing the section">
+<exercise id="6" title="Implementing the Campaign">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/r1eZZEwadhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
+
 ### Quiz
-Question text? 
+A __________ is a type of bar chart that illustrates a project schedule. 
 <choice>
-<opt correct="true" text="Correct answer text.">
-Correct answer explanation.
+<opt correct="true" text="Gantt chart.">
+Named after its inventor, Henry Gantt (1861–1919), a Gantt chart shows the dependency relationships between activities and current schedule status.
 </opt>
-<opt text="Wrong answer text.">
-Wrong answer explanation.</opt>
+<opt text="PERT diagram.">
+The correct answer is Gantt chart.</opt>
+<opt text="bipartite graph network.">
+The correct answer is Gantt chart.</opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center>Under Construction Reflection</center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UODBPVVZJRTlaOElLVVpXMUFKNldSQlgyRi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
 
 
 ### Literature
-- Seabrook, J. (2019). Can a Machine Learn to Write for The New Yorker. The New Yorker, Retrieved March, 26, 2020.
+- Newton, R. (2016). Project management step by step: how to plan and manage a highly successful project. Pearson UK..
+- https://www.teamgantt.com/guide-to-project-management/how-to-plan-a-project
+
+</exercise>
+
+
+<exercise id="7" title="Writing the section">
+
+### Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p></p>
+
+
 
 </exercise>
