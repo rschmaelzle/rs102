@@ -229,7 +229,7 @@ The correct answer is Gantt chart.</opt>
 <exercise id="7" title="Writing the section">
 
 ### Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bKTwCu5bORA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/o9NyhsV-4T4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 
