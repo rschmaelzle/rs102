@@ -1,5 +1,5 @@
 spacy==2.2.4
-networkx==2.6
+networkx==2.5
 wasabi>=0.6.0,<1.1.0
 srsly>=0.0.5,<1.1.0
 pytest>=4.4.1,<4.5.0
