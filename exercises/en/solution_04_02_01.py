@@ -15,6 +15,8 @@ G_symmetric.add_edge('Peter Miller','Kurt Vonnegut')
 G_symmetric.add_edge('Maria Meier','Jonathan Franzen')
 G_symmetric.add_edge('Maria Meier','Hans Fallada')
 G_symmetric.add_edge('Kurt Vonnegut','Jonathan Franzen')
+
+# add an edge between Thomas Mann and Maria Meier
 G_symmetric.add_edge('Thomas Mann','Maria Meier')
 
 
