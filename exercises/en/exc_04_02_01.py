@@ -17,7 +17,7 @@ G_symmetric.add_edge('Maria Meier','Hans Fallada')
 G_symmetric.add_edge('Kurt Vonnegut','Jonathan Franzen')
 
 # add an edge between Thomas Mann and Maria Meier
-G_symmetric.add_edge('____,____)
+G_symmetric.add_edge(____,____)
 
 
 # plot the network
