@@ -69,7 +69,7 @@ The correct answer is edge. A path refers to a the route of a 'walk' from node t
 - Execute the code: First try to fill in the gaps and run the code. The solution/hints are a last resort!
 - Also, try to add a few edges and execute the code again. You can also measure other aspects of the network - check out the networkX documentation
 
-<codeblock id="04_02_01.py">
+<codeblock id="04_02_01">
 
 You can compute various network metrics in networkX. Check out the documentation! 
 
