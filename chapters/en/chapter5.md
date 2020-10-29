@@ -15,13 +15,12 @@ id: 5
 <p></p>
 
 ### Quiz
-Mass communication efforts ....The majority of campaigns are highly effective. 
+Claim: Mass communication efforts about public health are considered as interventions by the FDA and therefore must be registered as Clinical Trials. While this creates a lot of bureaucracy, a benefit is that they are all meticulously evaluated, helping us to learn what works and what not. 
 <choice>
-<opt correct="true" text="True.">
-Buying time just like advertisments do is one clear path to achieve high exposure. Another route is to beg for exposure, that is to ask channels to donate time for airing messages (ion the radio, for instance, program creators are often happy to do this in order to fill slots). The third route is to draw the media's attention to the campaign and the issue more broadly. This is what PR is all about and you can find more on this under the label media advocacy
-</opt>
-<opt text="False.">
-Buying, begging, or earning exposure are the three main choices you have and ideally you will combine them to maximize exposure while minimizing cost.</opt>
+<opt text="True.">
+This statement is not correct. Pretty much everyone can run a campaign and there is no campaign registry or anything like that. In fact, most campaigns are not at all evaluated and therefore often not even the designers will learn much about their impact, let alone others.</opt>
+<opt correct="true" text="False.">
+You are right - this statement is not correct. Pretty much everyone can run a campaign and there is no campaign registry or anything like that. Although campaigns that are carried out by government organizations tend to be evaluated, such evaluation is costly and thus often suboptimal.</opt>
 </choice>
 
 
@@ -31,7 +30,8 @@ Buying, begging, or earning exposure are the three main choices you have and ide
 
 
 ### Literature
-- asdf
+- Noar, S. M. (2012). An audience–channel–message–evaluation (ACME) framework for health communication campaigns. Health promotion practice, 13(4), 481-488.
+- Hornik, R. (Ed.). (2002). Public health communication: Evidence for behavior change. Routledge.
 
 </exercise>
 
@@ -42,12 +42,12 @@ Buying, begging, or earning exposure are the three main choices you have and ide
 <p></p>
 
 ### Quiz
-Mass communication efforts ....The majority of campaigns are highly effective. 
+Keeping track of exposure is ... 
 <choice>
-<opt correct="true" text="True.">
-asdf</opt>
-<opt text="False.">
-asdf.</opt>
+<opt correct="true" text="absolutely essential and cannot be left out.">
+Yes, exposure is the central piece in the logic - comparable to taking a pill in medicine. No pill, no cure. No exposure, no media effects.</opt>
+<opt text="highly desirable, but if compromises must be made, it is better to invest more time/money on assessing outcomes.">
+Since exposure is the central piece in the logic - comparable to taking a pill in medicine (No pill, no cure. No exposure, no media effects), assessing how much exposure you actually achieved is absolutely essential.</opt>
 </choice>
 
 
@@ -57,7 +57,10 @@ asdf.</opt>
 
 
 ### Literature
-- Measures
+- Evans, W. D., Abroms, L. C., Poropatich, R., Nielsen, P. E., & Wallace, J. L. (2012). Mobile health evaluation methods: the Text4baby case study. Journal of health communication, 17(sup1), 22-29.
+- Sherry, J. M., & Ratzan, S. C. (2012). Measurement and evaluation outcomes for mHealth communication: don't we have an app for that?. Health Communication, 17, 1-3.
+- Southwell, B. G., Barmada, C. H., Hornik, R. C., & Maklan, D. M. (2002). Can we measure encoded exposure? Evidence from a national campaign. Journal of Health Communication, 7, 445–453.
+- Niederdeppe, J. (2014). Conceptual, empirical, and practical issues in developing valid measures of public communication campaign exposure. Communication Methods and Measures, 8(2), 138-161.
 
 </exercise>
 
@@ -69,12 +72,12 @@ asdf.</opt>
 <p></p>
 
 ### Quiz
-Design. 
+To increase the conclusiveness of your evaluation resutls, two key issues to think about in advance are . 
 <choice>
-<opt correct="true" text="True.">
-asdf</opt>
-<opt text="False.">
-asdf.</opt>
+<opt correct="true" text="i) pre-post comparison and ii) control group.">
+If the situation post-campaign isn't better than pre-campaign, it cannot have helped much (unless you make the argument that without the campaign, it would have gotten even worse). A control group will help to make the case that the campaign (or exposure to communication) was causal factor that produced the improvement.</opt>
+<opt text="i) that all measures be quantitative (to perform statistics and aid meta-analysis) and ii) that process data are collected (because longitudinal designs are stronger).">
+Although these points are both desirable, it will help you more to show that i) the situation improved in a before-after comparison and ii) didn't improve in an control audience not exposed to the campaign/intervention.</opt>
 </choice>
 
 
@@ -84,19 +87,22 @@ asdf.</opt>
 
 
 ### Literature
-- Design
+- Hembroff, L. A., Martell, D., Allen, R., Poole, A., Clark, K., & Smith, S. W. (2019). The long-term effectiveness of a social norming campaign to reduce high-risk drinking: The Michigan State University experience, 2000–2014. Journal of American College Health, 1-11.
+- Duke, J. C., Alexander, T. N., Zhao, X., Delahanty, J. C., Allen, J. A., MacMonegle, A. J., & Farrelly, M. C. (2015). Youth's awareness of and reactions to the real cost national tobacco public education campaign. PloS one, 10(12), e0144827.
+- Farrelly, M. C., Duke, J. C., Nonnemaker, J., MacMonegle, A. J., Alexander, T. N., Zhao, X., ... & Allen, J. A. (2017). Association between The Real Cost media campaign and smoking initiation among youths—United States, 2014–2016. MMWR. Morbidity and mortality weekly report, 66(2), 47.
+- Evaluating Communication Campaigns https://www.issuelab.org/resources/6369/6369.pdf
+- Levine, E., Abbatangelo-Gray, J., Mobley, A. R., McLaughlin, G. R., & Herzog, J. (2012). Evaluating MyPlate: an expanded framework using traditional and nontraditional metrics for assessing health communication campaigns. Journal of nutrition education and behavior, 44(4), S2-S12.
 
 </exercise>
 
 
-<exercise id="4" title="Meta-analysis of health campaigns">
+<exercise id="4" title="Meta-analysis">
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FZi1XI0JRW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
-### Quiz
-. 
+### Quiz 
 <choice>
 <opt correct="true" text="True.">
 asdf</opt>
@@ -111,14 +117,10 @@ asdf.</opt>
 
 
 ### Literature
-- Design
-
-</exercise>
-
-
-<exercise id="5" title="A look into the future">
-
-Under Construction
+- Wakefield, M. A., Loken, B., & Hornik, R. C. (2010). Use of mass media campaigns to change health behaviour. The Lancet, 376(9748), 1261-1271.
+- Snyder, L. B. (2007). Health communication campaigns and their impact on behavior. Journal of nutrition education and behavior, 39(2), S32-S40.
+- Abroms, L. C., & Maibach, E. W. (2008). The effectiveness of mass communication to change public behavior. Annual Review of Public Health, 29:219-34.
+- Hornik, R. C. (2002). Public health communication: Evidence for behavior change. Mahwah, NJ: Lawrence Erlbaum.
 
 </exercise>
 
