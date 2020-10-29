@@ -2,7 +2,7 @@
 title: 'Chapter 5: Evaluation'
 description:
   "This chapter will show you how to determine whether your campaign actually 'moved the needle' - whether you achieved the goal you intendet to. You'll learn how to gauge the effects of your messages on various outcomes - be it awareness, knowledge, or attitude or behavior change. You'll learn data science skills that will make you a sought-after professional health communication."
-prev: /chapter5
+prev: /chapter4
 next: null
 type: chapter
 id: 5
@@ -41,6 +41,7 @@ You are right - this statement is not correct. Pretty much everyone can run a ca
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/mMxg9OCUi9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
+
 ### Quiz
 Keeping track of exposure is ... 
 <choice>
@@ -70,6 +71,7 @@ Since exposure is the central piece in the logic - comparable to taking a pill i
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/mE6rJGxG8tY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
+
 
 ### Quiz
 To increase the conclusiveness of your evaluation resutls, two key issues to think about in advance are . 
@@ -102,18 +104,19 @@ Although these points are both desirable, it will help you more to show that i) 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FZi1XI0JRW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
+
 ### Quiz 
+Choose the list that moves from most rigorous to least rigorous.
 <choice>
-<opt correct="true" text="True.">
-asdf</opt>
-<opt text="False.">
-asdf.</opt>
+<opt text="Systematic review, narrative review, meta-analysis."></opt>
+<opt correct="true" text="Meta-analysis, systematic review, narrative review."></opt>
+<opt text="Systematic review, narrative review, meta-analysis."></opt>
 </choice>
 
 
 ### Reflection 
 (must be logged in)
-<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5URTQwNlVMN1E1RFdPOFdRWkNSSU1IQ003Uy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></center>
+<center><iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=MHEXIi9k2UGSEXQjetVofeIAkhPbgVVIiiAR_AGnqN5UNjBCREExWUZUM1RPRlJQSEJQVjk2OEc0My4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> </iframe></center>
 
 
 ### Literature
