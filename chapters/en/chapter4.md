@@ -39,6 +39,7 @@ Buying, begging, or earning exposure are the three main choices you have and ide
 - Kim, H. S. (2015). Attracting views and going viral: How message features and news-sharing channels affect health news diffusion. Journal of Communication, 65(3), 512-534.
 - Helme, D. W., Noar, S. M., Allard, S., Zimmerman, R. S., Palmgreen, P., & McClanahan, K. J. (2011). In-depth investigation of interpersonal discussions in response to a safer sex mass media campaign. Health Communication, 26(4), 366-378.
 - Pei, R., Schmälzle, R., Kranzler, E. C., O'Donnell, M. B., & Falk, E. B. (2019). Adolescents’ neural response to tobacco prevention messages and sharing engagement. American Journal of Preventive Medicine, 56(2), S40-S48.
+- Hwang, Y. (2012). Social diffusion of campaign effects: Campaign-generated interpersonal communication as a mediator of antitobacco campaign effects. Communication Research, 39(1), 120-141.
 - Slater, M D. (2004). Operationalizing and analyzing exposure: The foundation of media effects research. Journalism & Mass Communication Quarterly 81(1). 168-183.
 
 </exercise>
