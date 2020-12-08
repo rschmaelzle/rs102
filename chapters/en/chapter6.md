@@ -1,7 +1,7 @@
 ---
 title: 'Chapter 6: Bonus'
 description:
-  "This chapter contains some bonus materials, which will hopefully peek your curiosity to keep learning about Mass Communication and Public Health - even when this class has ended."
+  "This chapter contains some bonus materials, which will hopefully peek your curiosity to keep learning about some more specific methods within the domain Mass Communication and Public Health - even when this class has ended. Of note, you can do the Reflections below the videos, but you don't have to - they will not be counted as Quiz-Points."
 prev: /chapter5
 next: null
 type: chapter
@@ -210,12 +210,6 @@ You can experiment with anything that can be varied, such as emails, sms/texts, 
 
 ### Video
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/i9jano6OfXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
-How I write my formative research project
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UBMXU8FM5yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p></p>
-Update on article schema/instructions/rubric
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed//H60wTzxUqgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p></p>
 
 ### Quiz
